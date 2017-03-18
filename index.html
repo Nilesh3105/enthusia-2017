@@ -37,6 +37,7 @@
 		<link rel='stylesheet' property='stylesheet' id='woocommerce-smallscreen-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreena117.css?ver=2.6.11' type='text/css' media='only screen and (max-width: 768px)'/>
 		<link rel='stylesheet' property='stylesheet' id='woocommerce-general-css' href='wp-content/plugins/woocommerce/assets/css/woocommercea117.css?ver=2.6.11' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
+		
 		<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 		<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/idangerous.swiper.min2153.js?ver=1489780710'></script>
@@ -1005,7 +1006,7 @@
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Table Reservation</h2>
+								<h2 class="block-title">Registration</h2>
 								<div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 								</div>
@@ -1031,16 +1032,20 @@
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="YOUR NAME"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="PHONE"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap event"><input type="text" name="event" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="EVENT"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap date"><input type="text" name="date" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="DATE"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap number"><input type="number" name="number" value="" class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number" min="1" aria-invalid="false" placeholder="AMOUNT OF PEOPLE"/></span></div>
+											<div class="col-xs-12 col-sm-6 col-md-8 animatedBlock"> <span class="wpcf7-form-control-wrap event"><input type="text" name="event" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="COLLEGE"/></span></div>
+											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap date"><select class="form-control" style="height:56px; font-size:12px; color:white; background-color:rgba(255,255,255,0.11); border:medium none; box-shadow:inherit; border-top-left-radius:5px; opacity:0.5;border-top-right-radius:5px">
+																																				  <option>B.E</option>
+																																				  <option>M.E</option>
+																																				  <option>M.C.A</option>
+																																				  <option>Others</option>
+																																				</select>
+																									</span>
+											</div>
 										</div>
-										<div class="row form-row">
-											<div class="col-xs-12 animatedBlock"> <span class="wpcf7-form-control-wrap comment"><textarea name="comment" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="COMMENT"></textarea></span></div>
-										</div>
+										
 										<div class="row form-row">
 											<div class="submit-wrapper col-xs-12 animatedBlock">
-												<div class="submit-wrap"> <input type="submit" value="Make an order" class="wpcf7-form-control wpcf7-submit a-btn"/> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+												<div class="submit-wrap"> <input type="submit" value="Register" class="wpcf7-form-control wpcf7-submit a-btn"/> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
 											</div>
 										</div>
 									</div>
@@ -1284,19 +1289,19 @@
 		<footer class="footer">
 			<div class="map-wrapper">
 				<div class="map-wrap">
-					<div class="map-block" id="map-canvas" data-marker="http://foxthemes.com/web/wp/miami/wp-content/uploads/2016/12/map_marker.png" data-lat="40.6941859" data-lng="-73.7210592" data-zoom="11" data-style="style-1">
+					<div class="map-block" id="map-canvas" data-marker="http://foxthemes.com/web/wp/miami/wp-content/uploads/2016/12/map_marker.png" data-lat="26.268431" data-lng="73.035687" data-zoom="11" data-style="style-1">
 					</div>
 				</div>
 				<div class="contacts">
-					<div class="address">50 NW 37th Ave, Miami, FL 33125</div>
+					<div class="address">M. B. M. Engineering College, &nbsp &nbsp J N Vyas University, Air Force Area, Jodhpur, Rajasthan &nbsp &nbsp	 342011</div>
 					<a href="http://foxthemes.com/cdn-cgi/l/email-protection#335a5d555c735e5a525e5a1d505c5e">
-						<span class="__cf_email__" data-cfemail="5c35323a331c31353d3135723f3331">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>
+						info@enthusia2017.com
 					</a>
-					<a href="tel:+13056493000">+13056493000</a>
+					<a href="tel:+13056493000">0291-2551566</a>
 				</div>
 			</div>
 			<div class="copy">
-				© 2016, Miami. All Rights Reserved. 
+				© 2017, Enthusia. All Rights Reserved. 
 			</div>
 		</footer>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.mina752.js?ver=4.11.2.1'></script>
