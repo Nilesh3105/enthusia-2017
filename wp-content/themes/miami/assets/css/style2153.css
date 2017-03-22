@@ -7682,3 +7682,17 @@ body .rtb-booking-form .message textarea {
         padding-right: 15px;
     }
 }
+@font-face{
+    font-family: "BlowBrush";
+    font-style: normal;
+
+    src: url("http://demo.stylishthemes.co/mesh2-festival-light/wp-content/themes/mesh2/theme-core/assets/fonts/blowbrush.ttf");
+
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url("http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}

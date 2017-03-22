@@ -58,6 +58,7 @@
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/parallax2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/navigation2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/plugins/filter-theme-for-onepage/js/filter2153.js?ver=1489780710'></script>
+		<script src="js/index.js"></script>
 		<script type='text/javascript'>
 			/* <![CDATA[ */
 			var wc_add_to_cart_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/foxthemes.com\/web\/wp\/miami\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
@@ -72,6 +73,8 @@
 		<meta name="generator" content="WooCommerce 2.6.11"/>
 		<link rel="canonical" href="index.php"/>
 		<link rel='shortlink' href='index.php'/>
+		<link rel="stylesheet" type="text/css" href="css/style_circle.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 		<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed312c.json?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F"/>
 		<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed52af?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F&amp;format=xml"/>
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
@@ -80,10 +83,10 @@
 		<![endif]--><!--[if IE  8]>
 		<link rel="stylesheet" type="text/css" href="http://foxthemes.com/web/wp/miami/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen">
 		<![endif]-->
-		<link rel="icon" href="wp-content/uploads/2016/12/16x16.png" sizes="32x32"/>
-		<link rel="icon" href="wp-content/uploads/2016/12/16x16.png" sizes="192x192"/>
+		<link rel="icon" href="wp-content/uploads/2016/12/16x16.ico" sizes="32x32"/>
+		<link rel="icon" href="wp-content/uploads/2016/12/16x16.ico" sizes="192x192"/>
 		<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2016/12/16x16.png"/>
-		<meta name="msapplication-TileImage" content="http://foxthemes.com/web/wp/miami/wp-content/uploads/2016/12/16x16.png"/>
+		<meta name="msapplication-TileImage" content="wp-content/uploads/2016/12/16x16.png"/>
 		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1479890886073{background-image:url(wp-content/uploads/2016/10/bannerd58f.jpg?id=732)!important;background-position:center!important;background-repeat:no-repeat!important;background-size:cover!important;}</style>
 		<noscript>
 			<style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style>
@@ -112,7 +115,7 @@
 							<a href="index.php#home">Home</a>
 						</li>
 						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
-						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Sponsers</a></li>
+						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsers" class="anchor-scroll">Sponsers</a></li>
 						<!-- <li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li> -->
 					</ul>
 					<div class="logo-block">
@@ -152,7 +155,45 @@
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
-								<div style=" margin: 100px auto 0px; "> Enthusia</div>
+							<div class="row" style="margin: 100px auto 0px;">
+								<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
+									<!-- <div class="view"> -->
+  										<div class="plane main" >
+										    <div class="circle"></div>
+										    <div class="circle"></div>
+										    <div class="circle"></div>
+										    <div class="circle"></div>
+										    <div class="circle"></div>
+										    <div class="circle"></div>
+									  <!-- </div> -->
+									</div>
+								</div>
+								<div class="col-md-6">
+								<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw;">Event Starts On 1 APRIL!</p>
+									<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center;">Enthusia</div>
+									<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center;">2K17</div>
+									<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+										quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+										consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+										cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+										proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+									</p>
+								</div>	
+								<div class="col-md-2" style="padding-top: 5%">
+									<!-- <div class="view"> -->
+  										<div class="plane main" >
+										    <div class="circle1"></div>
+										    <div class="circle1"></div>
+										    <div class="circle1"></div>
+										    <div class="circle1"></div>
+										    <div class="circle1"></div>
+										    <div class="circle1"></div>
+									  <!-- </div> -->
+									</div>
+								</div>
+							</div>
 								<!-- <div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
 									<div class="swiper-wrapper" style="cursor: default;">
 										<div class="swiper-slide ">
@@ -657,7 +698,7 @@
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Our Services</h2>
+								<h2 class="block-title">Our Sponsers</h2>
 								<div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 								</div>
