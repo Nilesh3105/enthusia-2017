@@ -64,85 +64,50 @@ require_once "includes/functions.php";
 </head>
 <body>
 <header class="header clearfix">
-		<div class="centered-menu-wrap">
-			<div class="logo-block mobile">
-				<a class="logo" href="index.html">
+	<div class="centered-menu-wrap">
+		<div class="logo-block mobile">
+			<a class="logo" href="index.php">
+			<img class="f-logo" src="wp-content/uploads/2016/11/logo.png" alt="Miami">
+			</a>
+		</div>
+		<nav class="main-nav">
+			<ul id="menu-top-left-menu" class="anchor-navigation">
+				<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active page-dropdown nav-item menu-item-485">
+					<a href="index.php#home">Home</a>
+				</li>
+				<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-844"><a href="index.php#about" class="anchor-scroll">About</a></li>
+				<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li>
+				<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Services</a></li>
+				<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
+				<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
+			</ul>
+			<div class="logo-block">
+				<a class="logo" href="index.php">
 				<img class="f-logo" src="wp-content/uploads/2016/11/logo.png" alt="Miami">
 				</a>
 			</div>
-			<nav class="main-nav">
-				<ul id="menu-top-left-menu" class="anchor-navigation">
-					<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active page-dropdown nav-item menu-item-485">
-						<a href="index.html#home">Home</a>
+			<ul id="menu-top-right-menu" class="anchor-navigation">
+				<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#reservation" class="anchor-scroll">Reservation</a></li>
+				<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li>
+				<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li>
+				<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li>
+				<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
+				<?php if(!isset($_SESSION['logged_in'])) { ?>
+					<a href="login.php">Login</a>
+				<?php } else { ?>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Hi! <?php echo $_SESSION['name']; ?>
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu">
+							<li><a href="profile.php">Profile</a></li>
+							<li><a href="logout.php">Logout</a></li>
+						</ul>
 					</li>
-					<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-844"><a href="index.html#about" class="anchor-scroll">About</a></li>
-					<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.html#team" class="anchor-scroll">Team</a></li>
-					<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.html#services" class="anchor-scroll">Services</a></li>
-					<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.html#events" class="anchor-scroll">Events</a></li>
-					<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.html#gallery" class="anchor-scroll">Gallery</a></li>
-				</ul>
-				<div class="logo-block">
-					<a class="logo" href="index.html">
-					<img class="f-logo" src="wp-content/uploads/2016/11/logo.png" alt="Miami">
-					</a>
-				</div>
-				<ul id="menu-top-right-menu" class="anchor-navigation">
-					<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.html#reservation" class="anchor-scroll">Reservation</a></li>
-					<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.html#testimonials" class="anchor-scroll">Testimonials</a></li>
-					<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.html#news" class="anchor-scroll">News</a></li>
-					<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.html#contact" class="anchor-scroll">Contact</a></li>
-					<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
-					<?php if(!isset($_SESSION['logged_in'])) { ?>
-						<a href="login.php">Login</a>
-					<?php } else { ?>
-						<li class="dropdown">
-							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Hi! <?php echo $_SESSION['name']; ?>
-								<span class="caret"></span>
-							</a>
-							<ul class="dropdown-menu">
-								<li><a href="profile.php">Profile</a></li>
-								<li><a href="logout.php">Logout</a></li>
-							</ul>
-						</li>
-					<?php } ?>
-					</li>
-				</ul>
-			</nav>
-		</div>
-		<button class="cmn-toggle-switch"><span></span></button>
-	</header>
-	<!-- <header>
-		<nav class="navbar navbar-default">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.php#home" style="padding:0px;margin-left:10px;height:100%;"><img src="img/logo.png"></a>
-				</div>
-				<div class="collapse navbar-collapse" id="myNavbar">
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.php#home">HOME</a></li>
-						<li><a href="index.php#about">ABOUT</a></li>
-						<li><a href="index.php#events">EVENTS</a></li>
-						<li><a href="index.php#contact">CONTACT</a></li>
-						<?php if(!isset($_SESSION['logged_in'])) { ?>
-						<li><a href="login.php" <?php  ?>>LOGIN</a></li>
-						<?php } else { ?>
-						<li class="dropdown">
-							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Hi! <?php echo $_SESSION['name']; ?>
-								<span class="caret"></span>
-							</a>
-							<ul class="dropdown-menu">
-								<li><a href="profile.php">Profile</a></li>
-								<li><a href="logout.php">Logout</a></li>
-							</ul>
-						</li>
-						<?php } ?>
-					</ul>
-				</div>
-			</div>
+				<?php } ?>
+				</li>
+			</ul>
 		</nav>
-	</header> -->
+	</div>
+	<button class="cmn-toggle-switch"><span></span></button>
+</header>

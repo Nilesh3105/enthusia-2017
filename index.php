@@ -13,8 +13,8 @@
 		<link rel='dns-prefetch' href='http://maps.googleapis.com/'/>
 		<link rel='dns-prefetch' href='http://fonts.googleapis.com/'/>
 		<link rel='dns-prefetch' href='http://s.w.org/'/>
-		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Feed" href="feed/index.html"/>
-		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Comments Feed" href="comments/feed/index.html"/>
+		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Feed" href="feed/index.php"/>
+		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Comments Feed" href="comments/feed/index.php"/>
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foxthemes.com\/web\/wp\/miami\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -65,13 +65,13 @@
 		</script>
 		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mina117.js?ver=2.6.11'></script>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carta752.js?ver=4.11.2.1'></script>
-		<link rel='https://api.w.org/' href='wp-json/index.html'/>
+		<link rel='https://api.w.org/' href='wp-json/index.php'/>
 		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd"/>
 		<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"/>
 		<meta name="generator" content="WordPress 4.7.3"/>
 		<meta name="generator" content="WooCommerce 2.6.11"/>
-		<link rel="canonical" href="index.html"/>
-		<link rel='shortlink' href='index.html'/>
+		<link rel="canonical" href="index.php"/>
+		<link rel='shortlink' href='index.php'/>
 		<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed312c.json?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F"/>
 		<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed52af?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F&amp;format=xml"/>
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
@@ -102,38 +102,46 @@
 		<header class="header clearfix">
 			<div class="centered-menu-wrap">
 				<div class="logo-block mobile">
-					<a class="logo" href="index.html">
+					<a class="logo" href="index.php">
 					<img class="f-logo" src="wp-content/uploads/2016/11/logo.png" alt="Miami">
 					</a>
 				</div>
 				<nav class="main-nav">
 					<ul id="menu-top-left-menu" class="anchor-navigation">
 						<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active page-dropdown nav-item menu-item-485">
-							<a href="#home">Home</a>
-							<i class="fa fa-angle-down"></i>
-							<ul class="dropdown-menu">
-								<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-331 current_page_item active nav-item menu-item-486"><a href="index.html">Home page 1</a></li>
-								<li id="menu-item-815" class="menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-815"><a href="home-2/index128d.html?demo=2&amp;about=791&amp;event=797&amp;reservation=808&amp;news=803">Home page 2</a></li>
-								<li id="menu-item-816" class="menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-816"><a href="home-3/indexaab5.html?demo=3&amp;about=788&amp;event=794&amp;reservation=805&amp;news=800">Home page 3</a></li>
-							</ul>
+							<a href="index.php#home">Home</a>
 						</li>
-						<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-844"><a href="index.html#about" class="anchor-scroll">About</a></li>
-						<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.html#team" class="anchor-scroll">Team</a></li>
-						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.html#services" class="anchor-scroll">Services</a></li>
-						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.html#events" class="anchor-scroll">Events</a></li>
-						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.html#gallery" class="anchor-scroll">Gallery</a></li>
+						<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-844"><a href="index.php#about" class="anchor-scroll">About</a></li>
+						<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li>
+						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Services</a></li>
+						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
+						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
 					</ul>
 					<div class="logo-block">
-						<a class="logo" href="index.html">
+						<a class="logo" href="index.php">
 						<img class="f-logo" src="wp-content/uploads/2016/11/logo.png" alt="Miami">
 						</a>
 					</div>
 					<ul id="menu-top-right-menu" class="anchor-navigation">
-						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.html#reservation" class="anchor-scroll">Reservation</a></li>
-						<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.html#testimonials" class="anchor-scroll">Testimonials</a></li>
-						<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.html#news" class="anchor-scroll">News</a></li>
-						<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.html#contact" class="anchor-scroll">Contact</a></li>
-						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498"><a href="login.php">Login</a></li>
+						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#reservation" class="anchor-scroll">Reservation</a></li>
+						<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li>
+						<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li>
+						<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li>
+						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
+						<?php if(!isset($_SESSION['logged_in'])) { ?>
+							<a href="login.php">Login</a>
+						<?php } else { ?>
+							<li class="dropdown">
+								<a class="dropdown-toggle" data-toggle="dropdown" href="#">Hi! <?php echo $_SESSION['name']; ?>
+									<span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li><a href="profile.php">Profile</a></li>
+									<li><a href="logout.php">Logout</a></li>
+								</ul>
+							</li>
+						<?php } ?>
+						</li>
 					</ul>
 				</nav>
 			</div>
