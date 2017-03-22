@@ -152,13 +152,9 @@
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
-								<div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
+								<div style=" margin: 100px auto 0px; "> Enthusia</div>
+								<!-- <div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
 									<div class="swiper-wrapper" style="cursor: default;">
-										<!-- <div class="swiper-slide ">
-											<div class="slider-content">
-												
-											</div>
-										</div>
 										<div class="swiper-slide ">
 											<div class="slider-content">
 												
@@ -168,10 +164,15 @@
 											<div class="slider-content">
 												
 											</div>
-										</div> -->
+										</div>
+										<div class="swiper-slide ">
+											<div class="slider-content">
+												
+											</div>
+										</div>
 									</div>
 									<div class="pagination"></div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
