@@ -55,7 +55,7 @@ Thanks!
 			<div class="panel panel-primary">
 				<div class="panel-heading">
 					<p class="panel-title" style="text-align: center; font-size: 36px; line-height: 1.5;">
-					<i class="material-icons" style="font-size: 48px;">lock</i><br>
+					<i class="material-icons" style="font-size: 48px;">mail</i><br>
 					RESEND VERIFICATION MAIL</p>
 				</div>
 				<div class="panel-body">
