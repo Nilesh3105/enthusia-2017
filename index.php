@@ -9,7 +9,7 @@
 		<meta name="format-detection" content="telephone=no"/>
 		<meta name="apple-mobile-web-app-capable" content="yes"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no, minimal-ui"/>
-		<title>Miami &#8211; Just another WordPress site</title>
+		<title>Enthusia 2k17</title>
 		<link rel='dns-prefetch' href='http://maps.googleapis.com/'/>
 		<link rel='dns-prefetch' href='http://fonts.googleapis.com/'/>
 		<link rel='dns-prefetch' href='http://s.w.org/'/>
@@ -111,11 +111,9 @@
 						<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active page-dropdown nav-item menu-item-485">
 							<a href="index.php#home">Home</a>
 						</li>
-						<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-844"><a href="index.php#about" class="anchor-scroll">About</a></li>
-						<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li>
-						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Services</a></li>
 						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
-						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
+						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Sponsers</a></li>
+						<!-- <li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li> -->
 					</ul>
 					<div class="logo-block">
 						<a class="logo" href="index.php">
@@ -123,10 +121,11 @@
 						</a>
 					</div>
 					<ul id="menu-top-right-menu" class="anchor-navigation">
-						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#registration" class="anchor-scroll">Registration</a></li>
-						<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li>
-						<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li>
-						<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li>
+						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
+						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#Registration" class="anchor-scroll">Registration</a></li>
+						<!-- <li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li> -->
+						<!-- <li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li> -->
+						<!-- <li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li> -->
 						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
 						<?php if(!isset($_SESSION['logged_in'])) { ?>
 							<a href="login.php">Login</a>
@@ -291,21 +290,26 @@
 																	<div class="date">
 																		8<sup>th</sup> April 
 																	</div>
-																	<div class="title">“REFRESH YOUR MIND”</div>
+																	<div class="title">CRICKET</div>
 																</div>
 																<div class="text">
-																	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur 
+																<ul>
+																 Maximum 15 players are allowed in a team and the tournament will be played
+																	on the T-20 knock-out format.
+																	Tie in the game will be resolved by a super over.
+																	 All the teams should come in whites.
+																</ul>
 																</div>
 																<div class="time">
-																	START AT 8.30 PM 
+																	START AT 9.00 AM 
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	30 </span>
+																	1100 </span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -320,21 +324,23 @@
 																	<div class="date">
 																		8<sup>th</sup> April 
 																	</div>
-																	<div class="title">“GET HAPPINESS”</div>
+																	<div class="title">BASKETBALL</div>
 																</div>
 																<div class="text">
-																	Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+																	Mens and Womens Team.
+																	Maximum number of players per team are 10.
+																	The match will consist of 4 quarters, each quarter lasting 10 minutes (unless mentioned otherwise). 
 																</div>
 																<div class="time">
-																	START AT 10.00 PM 
+																	START AT 11 AM 
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	25 </span>
+																	600 </span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -349,21 +355,24 @@
 																	<div class="date">
 																		8<sup>th</sup> April 
 																	</div>
-																	<div class="title">&quot;COSA NOSTRA&quot;</div>
+																	<div class="title">VOLLEYBALL</div>
 																</div>
 																<div class="text">
-																	sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit 
-																</div>
+																	Separate matches for girls and boys.
+																 Maximum number of players per team is 12 (6 main + 6 sub).
+																	3 sets of 25 points each(Final match will be of 5 sets of 25 points each).
+																 Maximum 3 touches are allowed. 
+																 </div>
 																<div class="time">
-																	START AT 8.30 PM 
+																	START AT 2.00 PM 
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	50 </span>
+																	600 </span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -381,18 +390,20 @@
 																	<div class="title">Football</div>
 																</div>
 																<div class="text">
-																	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt id provident assumenda. Temporibus accusamus perferendis et, dignissimos nesciunt reiciendis omnis ipsum non expedita sed voluptate voluptatibus, inventore aliquid corrupti tempora?	
-																</div>
+																	 Normal FIFA rules applicable.
+																	 Maximum 15 players are allowed in a team.
+																	 Offside etc. as per current format followed.
+																	 Maximum 3 substitutions allowed. </div>
 																<div class="time">
-																	START AT 10.00 PM 
+																	START AT 4 PM
 																</div>
 																<div class="price">
 																<a>
 																	<span class="price-item">
-																		<sup>₹</sup>100
+																		<sup>₹</sup>1100
 																	</span>
 																</a>	
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -638,7 +649,7 @@
 			</div>
 			<div class="vc_row-full-width"></div>
 		</div>
-		<div id="services" class="container add_animation">
+		<div id="sponsers" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid padding-lg-50t padding-sm-10t padding-xs-0t" style="padding-top: 0px;">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-30b">
 					<div class="vc_column-inner ">
@@ -841,7 +852,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="team" class="container add_animation" style="margin-top: 80px;">
+		<!-- <div id="team" class="container add_animation" style="margin-top: 80px;">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-sm-5t margin-xs-5t">
 					<div class="vc_column-inner ">
@@ -1047,11 +1058,11 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		
 		
 		
-		<div id="registration" class="container add_animation">
+		<div id="Registration" class="container add_animation">
 			<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1480422279776 vc_row-has-fill">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-40t margin-sm-0t margin-xs-0t">
 					<div class="vc_column-inner vc_custom_1476875217258" style="padding-top: 0px;">
@@ -1071,7 +1082,14 @@
 						<div class="wpb_wrapper">
 							<div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
 								<div class="screen-reader-response"></div>
-								<form action="http://foxthemes.com/web/wp/miami/#wpcf7-f5-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+									<div class="container-fluid no-padding reservation-form">
+										<div class="row form-row">
+											<div class="submit-wrapper col-xs-12 animatedBlock">
+												<div class="submit-wrap"> <a href="signup.php"><input type="submit" value="Register" class="wpcf7-form-control wpcf7-submit a-btn"/> <i class="fa fa-angle-right" aria-hidden="true"></i> </a></div>
+											</div>
+										</div>
+									</div>
+								<!-- <form action="http://foxthemes.com/web/wp/miami/#wpcf7-f5-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 									<div style="display: none;">
 										<input type="hidden" name="_wpcf7" value="5"/>
 										<input type="hidden" name="_wpcf7_version" value="4.6"/>
@@ -1079,8 +1097,7 @@
 										<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1"/>
 										<input type="hidden" name="_wpnonce" value="4943460c40"/>
 									</div>
-									<div class="container-fluid no-padding reservation-form">
-										<!-- <div class="row form-row">
+										<div class="row form-row">
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="YOUR NAME"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="PHONE"/></span></div>
@@ -1093,16 +1110,12 @@
 																																				</select>
 																									</span>
 											</div>
-										</div> -->
-										
-										<div class="row form-row">
-											<div class="submit-wrapper col-xs-12 animatedBlock">
-												<div class="submit-wrap"> <input type="submit" value="Register" class="wpcf7-form-control wpcf7-submit a-btn"/> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
-											</div>
 										</div>
-									</div>
+										
+										
+									
 									<div class="wpcf7-response-output wpcf7-display-none"></div>
-								</form>
+								</form> -->
 							</div>
 						</div>
 					</div>
@@ -1192,7 +1205,7 @@
 				</div>
 			</div>
 		</div> -->
-		<div id="news" class="container add_animation">
+		<!-- <div id="news" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-95t margin-sm-50t margin-xs-35t">
 					<div class="vc_column-inner vc_custom_1476876568754">
@@ -1247,7 +1260,7 @@
 											</div>
 										</div>
 									</div>
-								<!-- 	<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-1 twitter">
 											<h4><a class="news-title" href="https://twitter.com/loren_miami">Rem ipsum dolor sit amet, consectetur sed do #Miami elit, sed do eius...</a></h4>
 											<div class="news-date"><i class="fa fa-calendar"></i> 11:51 October 19, 2016</div>
@@ -1277,14 +1290,14 @@
 											</div>
 										</div>
 									</div> -->
-								</div>
+								<!-- </div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="vc_row-full-width"></div>
-		</div>
+		</div>  -->
 	<!-- 	<div id="contact" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-80t margin-lg-25b margin-sm-50t margin-sm-25b margin-xs-35t margin-xs-25b">

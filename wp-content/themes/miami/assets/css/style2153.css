@@ -3502,9 +3502,9 @@ input[type="submit"][disabled]:focus i {
     cursor: pointer;
 }
 .header .centered-menu-wrap .main-nav>ul>li>a {
-    font-size: 12px;
+    font-size: 15px;
     line-height: 20px;
-    padding: 38px 20px 35px;
+    padding: 38px 34px 35px;
     color: #ffffff;
     opacity: 0.6;
     font-family: "Raleway", sans-serif;
@@ -6465,7 +6465,7 @@ body .single-page .container.has-no-title {
     line-height: 1.2;
     text-align: center;
     letter-spacing: 1.3px;
-    margin-bottom: 13px;
+    margin-bottom: 8px;
 }
 .events-wrapper .tabs2 {
     width: 100%;
