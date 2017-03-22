@@ -54,6 +54,9 @@ require_once "includes/functions.php";
 			color:#D85B1F;
 			border: none;
 		}
+		.btn.btn-danger{
+			border: none;
+		}
 	</style>
 
 	<script type='text/javascript' src='wp-content/themes/miami/assets/js/imagelightbox.min2153.js?ver=1489780710'></script>
