@@ -154,7 +154,7 @@
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
 								<div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
-									<div class="swiper-wrapper">
+									<div class="swiper-wrapper" style="cursor: default;">
 										<!-- <div class="swiper-slide ">
 											<div class="slider-content">
 												
@@ -983,6 +983,66 @@
 										<div class="vertical-align">
 											<div class="team-title">OLIVIA TOMPSON</div>
 											<div class="team-pos">Event manager</div>
+											<div class="team-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</div>
+											<div class="team-social">
+												<a href="https://www.facebook.com/" title="" class="fa fa-facebook"></a>
+												<a href="https://twitter.com/" title="" class="fa fa-twitter"></a>
+												<a href="https://plus.google.com/" title="" class="fa fa-google-plus"></a>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="team-item animatedBlock ">
+									<div class="team-img"><img class="s-img-switch" src="wp-content/uploads/2016/10/2.jpg" alt=""></div>
+									<div class="descr">
+										<div class="vertical-align">
+											<div class="team-title">MAT LABLANK</div>
+											<div class="team-pos">Dancing artist</div>
+											<div class="team-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</div>
+											<div class="team-social">
+												<a href="https://www.facebook.com/" title="" class="fa fa-facebook"></a>
+												<a href="https://twitter.com/" title="" class="fa fa-twitter"></a>
+												<a href="https://plus.google.com/" title="" class="fa fa-google-plus"></a>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="team-item animatedBlock ">
+									<div class="team-img"><img class="s-img-switch" src="wp-content/uploads/2016/10/Photo_1.png" alt=""></div>
+									<div class="descr">
+										<div class="vertical-align">
+											<div class="team-title">LUCK TRIDER</div>
+											<div class="team-pos">Manager</div>
+											<div class="team-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</div>
+											<div class="team-social">
+												<a href="https://www.facebook.com/" title="" class="fa fa-facebook"></a>
+												<a href="https://twitter.com/" title="" class="fa fa-twitter"></a>
+												<a href="https://plus.google.com/" title="" class="fa fa-google-plus"></a>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="team-item animatedBlock ">
+									<div class="team-img"><img class="s-img-switch" src="wp-content/uploads/2016/10/2.jpg" alt=""></div>
+									<div class="descr">
+										<div class="vertical-align">
+											<div class="team-title">MAT LABLANK</div>
+											<div class="team-pos">Dancing artist</div>
+											<div class="team-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</div>
+											<div class="team-social">
+												<a href="https://www.facebook.com/" title="" class="fa fa-facebook"></a>
+												<a href="https://twitter.com/" title="" class="fa fa-twitter"></a>
+												<a href="https://plus.google.com/" title="" class="fa fa-google-plus"></a>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="team-item animatedBlock ">
+									<div class="team-img"><img class="s-img-switch" src="wp-content/uploads/2016/10/2.jpg" alt=""></div>
+									<div class="descr">
+										<div class="vertical-align">
+											<div class="team-title">MAT LABLANK</div>
+											<div class="team-pos">Dancing artist</div>
 											<div class="team-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali</div>
 											<div class="team-social">
 												<a href="https://www.facebook.com/" title="" class="fa fa-facebook"></a>
