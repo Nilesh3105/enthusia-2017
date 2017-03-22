@@ -20,7 +20,7 @@ if(isset($_POST['resend_link'])) {
 		else{
 
 			$code    = $row["code"];
-			$from    = "noreply@csembm.in";
+			$from    = "noreply@enthusia.mbm.ac.in";
 	        $to      = $email;
 	        $subject = 'Signup | Verification';
 	        $message = 'Thanks for signing up!
@@ -36,6 +36,8 @@ Thanks!
 	        $headers .= "Reply-To: $from \r\n";
 	        $headers .= "Return-Path: $from\r\n";
 	        $headers .= "X-Mailer: PHP \r\n";
+	        $headers .= "MIME-Version: 1.0\r\n";
+	        $headers .= "content-type: text/html; charset=UTF-8\r\n";
 			if(mail($to,$subject,$message,$headers))
 		    {
 				alert("<center><strong>Success!</strong> Activation link has been sent to your email id.</center>");
