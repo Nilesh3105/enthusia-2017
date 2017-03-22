@@ -123,7 +123,7 @@
 						</a>
 					</div>
 					<ul id="menu-top-right-menu" class="anchor-navigation">
-						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#reservation" class="anchor-scroll">Reservation</a></li>
+						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#registration" class="anchor-scroll">Registration</a></li>
 						<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li>
 						<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li>
 						<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li>
@@ -762,8 +762,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/party.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;GANOK&quot;</div>
-												<div class="gal-subtitle">May 12</div>
+												<div class="gal-title">&quot;PRO NIGHT&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -773,8 +772,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-156946557.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;COSA NOSTRA&quot;</div>
-												<div class="gal-subtitle">October 28</div>
+												<div class="gal-title">&quot;VOLLEYBALL&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -784,9 +782,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/Party-nightclub.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;ZAXID&quot;</div>
-												<div class="gal-subtitle">November 15</div>
-											</div>
+												<div class="gal-title">&quot;KABADDI&quot;</div>											</div>
 										</div>
 									</a>
 								</div>
@@ -795,9 +791,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/Fotolia_10189455_M1.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;UNDERGROUND&quot;</div>
-												<div class="gal-subtitle">December 21</div>
-											</div>
+												<div class="gal-title">&quot;BADMINTON&quot;</div>											</div>
 										</div>
 									</a>
 								</div>
@@ -806,8 +800,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-130487779.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;BITI LOOP&quot;</div>
-												<div class="gal-subtitle">January 3</div>
+												<div class="gal-title">&quot;GROUP DANCE&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -817,8 +810,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/AubFRQ8GFek.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;SXEMA&quot;</div>
-												<div class="gal-subtitle">February 10</div>
+												<div class="gal-title">&quot;BASKETBALL&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -828,8 +820,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-148158693.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;LISTRO&quot;</div>
-												<div class="gal-subtitle">September 7</div>
+												<div class="gal-title">&quot;RAMP WALK&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -839,8 +830,7 @@
 										<img class="s-img-switch" src="wp-content/uploads/2016/07/stock-photo-169015697.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;INKTOBER&quot;</div>
-												<div class="gal-subtitle">August 17</div>
+												<div class="gal-title">&quot;FOOTBALL&quot;</div>
 											</div>
 										</div>
 									</a>
@@ -1001,7 +991,7 @@
 		
 		
 		
-		<div id="reservation" class="container add_animation">
+		<div id="registration" class="container add_animation">
 			<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1480422279776 vc_row-has-fill">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-40t margin-sm-0t margin-xs-0t">
 					<div class="vc_column-inner vc_custom_1476875217258" style="padding-top: 0px;">
