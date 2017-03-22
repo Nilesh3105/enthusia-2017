@@ -15,9 +15,9 @@ if(isset($_POST['forgot_pass'])) {
 		$row = $database->single();
 		$pass = $row['password'];
 		$name = $row['name'];
-		$encid = "ENC16".str_pad($row['id'], 4, '0', STR_PAD_LEFT);
+		$encid = "ET17".str_pad($row['id'], 4, '0', STR_PAD_LEFT);
 		
-		$from    = "noreply@csembm.in";
+		$from    = "noreply@enthusia.mbm.ac.in";
         $to      = $_POST['email'];
         $subject = 'Login Credentials';
         $message = "Hi $name,
@@ -27,7 +27,7 @@ You recently requested your login details. You can login using the following:
 -----------------------------------------------------------------
 Username: $email
 Password: $pass
-Encarta ID: $encid
+Enthusia ID: $encid
 -----------------------------------------------------------------
 
 Thanks!
@@ -36,6 +36,8 @@ Thanks!
 	    $headers .= "Reply-To: $from \r\n";
 	    $headers .= "Return-Path: $from\r\n";
 	    $headers .= "X-Mailer: PHP \r\n";
+	    $headers .= "MIME-Version: 1.0\r\n";
+	    $headers .= "content-type: text/html; charset=UTF-8\r\n";
 		if(mail($to,$subject,$message,$headers))
 	    {
 			alert("<center><strong>Success!</strong> Your credentials have been sent to your email id.</center>");

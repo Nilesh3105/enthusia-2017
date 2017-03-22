@@ -14,17 +14,17 @@ require_once "includes/functions.php";
     <meta name="author" content="Nilesh Hirani">
     <title>Enthusia - <?php echo ucwords(pathinfo($_SERVER["SCRIPT_FILENAME"], PATHINFO_FILENAME)); ?></title>
 
+	<!-- Material Design fonts -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
 	<!-- Navbar -->
 	<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-	<link rel='stylesheet' property='stylesheet' id='miami_fonts-css' href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDancing+Script%3A400%2C700%26subset%3Dlatin%2Clatin-ext&amp;ver=1489780710' type='text/css' media='all'/>
+	<link rel='stylesheet' property='stylesheet' id='miami_fonts-css' href='https://fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDancing+Script%3A400%2C700%26subset%3Dlatin%2Clatin-ext&amp;ver=1489780710' type='text/css' media='all'/>
 	<link rel='stylesheet' property='stylesheet' id='miami_base-style-css' href='wp-content/themes/miami/assets/css/style2153.css?ver=1489780710' type='text/css' media='all'/>
 	<link rel='stylesheet' property='stylesheet' id='miami_dynamic-css-css' href='wp-admin/admin-ajaxc94f.css?action=dynamic_css&amp;ver=1489780710' type='text/css' media='all'/>
 	<!-- <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script> -->
 	
 	<link rel="icon" href="wp-content/uploads/2016/12/16x16.png" sizes="32x32"/>
-
-	<!-- Material Design fonts -->
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 	<!-- JQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -34,7 +34,7 @@ require_once "includes/functions.php";
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 	<!-- Bootstrap Material Design -->
-	<link href="css/bootstrap-material-design.css" rel="stylesheet">
+	<link href="css/bootstrap-material-design.min.css" rel="stylesheet">
 	<link href="css/ripples.min.css" rel="stylesheet">
 	<link href="css/jquery.dropdown.css" rel="stylesheet">
 
