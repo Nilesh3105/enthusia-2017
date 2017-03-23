@@ -188,9 +188,7 @@
 										proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 									</p>
-										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
-								  	<div blt-countdown-timer type="hms" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
-									</div>
+									
 								</div>	
 								<div class="col-md-2" style="padding-top: 5%">
 									<!-- <div class="view"> -->
@@ -202,6 +200,11 @@
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
 									  <!-- </div> -->
+									</div>
+								</div>
+								<div class="row">
+									<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
+								  		<div blt-countdown-timer type="hms" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
 									</div>
 								</div>
 							</div>

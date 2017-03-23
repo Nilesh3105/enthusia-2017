@@ -7,6 +7,8 @@
 .timer {
   width: 100px;
   height: 100px;
+  max-height: 30vw;
+  max-width: 30vw;
   position: relative;
   display: table;
   float: left;
@@ -74,6 +76,8 @@
   display: table;
   width: 100px;
   height: 100px;
+  max-height: 30vw;
+  max-width: 30vw;
   position: relative;
 }
 .time p {
