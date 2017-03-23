@@ -37,7 +37,9 @@
 		<link rel='stylesheet' property='stylesheet' id='woocommerce-smallscreen-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreena117.css?ver=2.6.11' type='text/css' media='only screen and (max-width: 768px)'/>
 		<link rel='stylesheet' property='stylesheet' id='woocommerce-general-css' href='wp-content/plugins/woocommerce/assets/css/woocommercea117.css?ver=2.6.11' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
-		
+		 <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
 		<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 		<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/idangerous.swiper.min2153.js?ver=1489780710'></script>
@@ -52,6 +54,8 @@
 			/* ]]> */
 		</script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/global2153.js?ver=1489780710'></script>
+	
+
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/anchors.navigation2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/customizer2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/equalHeightsPlugin2153.js?ver=1489780710'></script>
@@ -59,6 +63,9 @@
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/navigation2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/plugins/filter-theme-for-onepage/js/filter2153.js?ver=1489780710'></script>
 		<script src="js/index.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/style_timer.css">
+		
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 		<script type='text/javascript'>
 			/* <![CDATA[ */
 			var wc_add_to_cart_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/foxthemes.com\/web\/wp\/miami\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
@@ -74,7 +81,7 @@
 		<link rel="canonical" href="index.php"/>
 		<link rel='shortlink' href='index.php'/>
 		<link rel="stylesheet" type="text/css" href="css/style_circle.css">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+		
 		<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed312c.json?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F"/>
 		<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed52af?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F&amp;format=xml"/>
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
@@ -169,17 +176,21 @@
 									</div>
 								</div>
 								<div class="col-md-6">
-								<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw;">Event Starts On 1 APRIL!</p>
-									<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center;">Enthusia</div>
-									<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center;">2K17</div>
-									<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;">
+								<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 8 APRIL!</p>
+									<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
+									<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
+									<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 										quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 										consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 										cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 										proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 									</p>
+										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
+								  	<div blt-countdown-timer type="hms" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
+									</div>
 								</div>	
 								<div class="col-md-2" style="padding-top: 5%">
 									<!-- <div class="view"> -->
@@ -194,6 +205,7 @@
 									</div>
 								</div>
 							</div>
+							
 								<!-- <div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
 									<div class="swiper-wrapper" style="cursor: default;">
 										<div class="swiper-slide ">
@@ -699,9 +711,9 @@
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
 								<h2 class="block-title">Our Sponsers</h2>
-								<div class="block-text">
+								<!-- <div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -1144,13 +1156,8 @@
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="PHONE"/></span></div>
 											<div class="col-xs-12 col-sm-6 col-md-8 animatedBlock"> <span class="wpcf7-form-control-wrap event"><input type="text" name="event" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="COLLEGE"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap date"><select class="form-control" style="height:56px; font-size:12px; color:white; background-color:rgba(255,255,255,0.11); border:medium none; box-shadow:inherit; border-top-left-radius:5px; opacity:0.5;border-top-right-radius:5px">
-																																				  <option>B.E</option>
-																																				  <option>M.E</option>
-																																				  <option>M.C.A</option>
-																																				  <option>Others</option>
-																																				</select>
-																									</span>
+											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap date"><select class="form-control" style="height:56px; font-size:12px; color:white; background-color:rgba(255,255,255,0.11); border:medium none; box-shadow:inherit; border-top-left-radius:5px; opacity:0.5;border-top-right-radius:5px">							  <option>B.E</option>
+												</span>
 											</div>
 										</div>
 										
@@ -1437,6 +1444,10 @@
 			var wc_cart_fragments_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 			/* ]]> */
 		</script>
+		<script src='http://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js'></script>
+		<script src="js/index_timer.js"></script>
+
+
 		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mina117.js?ver=2.6.11'></script>
 		<script type='text/javascript' src='wp-includes/js/wp-embed.minfe9d.js?ver=4.7.3'></script>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>

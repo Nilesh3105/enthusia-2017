@@ -24,7 +24,7 @@ require_once "includes/functions.php";
 	<link rel='stylesheet' property='stylesheet' id='miami_dynamic-css-css' href='wp-admin/admin-ajaxc94f.css?action=dynamic_css&amp;ver=1489780710' type='text/css' media='all'/>
 	<!-- <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script> -->
 	
-	<link rel="icon" href="wp-content/uploads/2016/12/16x16.png" sizes="32x32"/>
+	<link rel="icon" href="wp-content/uploads/2016/12/16x16.ico" sizes="32x32"/>
 
 	<!-- JQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -83,7 +83,7 @@ require_once "includes/functions.php";
 						<a href="index.php#home">Home</a>
 					</li>
 					<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
-					<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#services" class="anchor-scroll">Sponsers</a></li>
+					<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsers" class="anchor-scroll">Sponsers</a></li>
 				</ul>
 				<div class="logo-block">
 					<a class="logo" href="index.php">
@@ -92,7 +92,7 @@ require_once "includes/functions.php";
 				</div>
 				<ul id="menu-top-right-menu" class="anchor-navigation">
 					<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
-					<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#registeration" class="anchor-scroll">Registeration</a></li>
+					<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#Registration" class="anchor-scroll">Registration</a></li>
 					<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
 						<?php if(!isset($_SESSION['logged_in'])) { ?>
 						<a href="login.php">Login</a>
