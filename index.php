@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-	<!-- Mirrored from foxthemes.com/web/wp/miami/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Mar 2017 19:58:31 GMT -->
-	<!-- Added by HTTrack -->
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<!-- /Added by HTTrack -->
 	<head>
 		<meta charset="UTF-8">
 		<meta name="format-detection" content="telephone=no"/>
@@ -123,7 +120,7 @@
 						</li>
 						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
 						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsers" class="anchor-scroll">Sponsers</a></li>
-						<!-- <li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li> -->
+						
 					</ul>
 					<div class="logo-block">
 						<a class="logo" href="index.php">
@@ -133,9 +130,9 @@
 					<ul id="menu-top-right-menu" class="anchor-navigation">
 						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
 						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#Registration" class="anchor-scroll">Registration</a></li>
-						<!-- <li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li> -->
-						<!-- <li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li> -->
-						<!-- <li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li> -->
+						
+						
+						
 						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
 						<?php if(!isset($_SESSION['logged_in'])) { ?>
 							<a href="login.php">Login</a>
@@ -164,7 +161,6 @@
 							<div class="banner-slider-wrap  ">
 							<div class="row" style="margin: 100px auto 0px;">
 								<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
-									<!-- <div class="view"> -->
   										<div class="plane main" >
 										    <div class="circle"></div>
 										    <div class="circle"></div>
@@ -172,7 +168,6 @@
 										    <div class="circle"></div>
 										    <div class="circle"></div>
 										    <div class="circle"></div>
-									  <!-- </div> -->
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -191,7 +186,7 @@
 									
 								</div>	
 								<div class="col-md-2" style="padding-top: 5%">
-									<!-- <div class="view"> -->
+									
   										<div class="plane main" >
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
@@ -199,7 +194,7 @@
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
-									  <!-- </div> -->
+									  
 									</div>
 								</div>
 								<div class="row">
@@ -1456,5 +1451,5 @@
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>
 		<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 	</body>
-	<!-- Mirrored from foxthemes.com/web/wp/miami/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Mar 2017 20:02:16 GMT -->
+	
 </html>
