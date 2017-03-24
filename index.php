@@ -298,7 +298,7 @@
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
 								<h2 class="block-title">Events</h2>
 								<div class="block-text">
-									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<p>Scheduled Events for three day long Enthusia-2k17.</p>
 								</div>
 							</div>
 							<div class="events-wrapper ">
@@ -349,22 +349,17 @@
 																	</div>
 																	<div class="title">CRICKET</div>
 																</div>
-																<div class="text">
-																<ul>
-																 Maximum 15 players are allowed in a team and the tournament will be played
-																	on the T-20 knock-out format.
-																	Tie in the game will be resolved by a super over.
-																	 All the teams should come in whites.
-																</ul>
+																<div class="text" >
+																	START AT 9.00 AM • Boys Criket(maximum candidates allowed are 15 per team) • Girls Cricket(maximum candidates allowed are 15 per team)
 																</div>
-																<div class="time">
-																	START AT 9.00 AM 
+																<div class="time"> 
+																	<a href="docs/Cricket.pdf"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	1100 </span>
+																	1500 </span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -383,19 +378,17 @@
 																	</div>
 																	<div class="title">BASKETBALL</div>
 																</div>
-																<div class="text">
-																	Mens and Womens Team.
-																	Maximum number of players per team are 10.
-																	The match will consist of 4 quarters, each quarter lasting 10 minutes (unless mentioned otherwise). 
+																<div class="text" >
+																	START AT 11.00 AM • Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team)
 																</div>
-																<div class="time">
-																	START AT 11 AM 
+																<div class="time"> 
+																	<a href="docs/Basketball%20Rules.pdf"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	600 </span>
+																	1200 </span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -415,19 +408,16 @@
 																	<div class="title">VOLLEYBALL</div>
 																</div>
 																<div class="text">
-																	Separate matches for girls and boys.
-																 Maximum number of players per team is 12 (6 main + 6 sub).
-																	3 sets of 25 points each(Final match will be of 5 sets of 25 points each).
-																 Maximum 3 touches are allowed. 
-																 </div>
-																<div class="time">
-																	START AT 2.00 PM 
+																	START AT 2.00 PM • Boys Volleyball(maximum candidates allowed are 9 per team) 
+																</div>
+																<div class="time"> 
+																	<a href="docs/Volleyball%20Rules.pdf"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	600 </span>
+																	1000 </span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -446,18 +436,16 @@
 																	</div>
 																	<div class="title">Football</div>
 																</div>
-																<div class="text">
-																	 Normal FIFA rules applicable.
-																	 Maximum 15 players are allowed in a team.
-																	 Offside etc. as per current format followed.
-																	 Maximum 3 substitutions allowed. </div>
-																<div class="time">
-																	START AT 4 PM
+																<div class="text" >
+																	START AT 4.00 PM • Boys Football(maximum candidates allowed are 15 per team) 
+																</div>
+																<div class="time"> 
+																	<a href="docs/football.pdf"><input type="submit" value="Rules"/></a>
 																</div>
 																<div class="price">
 																<a>
 																	<span class="price-item">
-																		<sup>₹</sup>1100
+																		<sup>₹</sup>1500
 																	</span>
 																</a>	
 																	<span>PRICE</span>
@@ -729,8 +717,8 @@
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
 									<div class="block-icon"><i class="miami-icon icon-cupcake"></i></div>
-									<h4 class="service-title">CORPORATE EVENTS</h4>
-									<div class="service-text">Lor sit amet, ctetur adipisicing elit, sed deiusmod tempor incididunt ut labore et</div>
+									<h4 class="service-title">COMING SOON</h4>
+									<div class="service-text"></div>
 								</div>
 							</div>
 						</div>
@@ -742,8 +730,8 @@
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
 									<div class="block-icon"><i class="miami-icon icon-mask"></i></div>
-									<h4 class="service-title">BRANDED EVENTS</h4>
-									<div class="service-text">Dolor sit amet, tetur adipisicing elit, sed do eiu smod temporin cididunt ut labore</div>
+									<h4 class="service-title">COMING SOON</h4>
+									<div class="service-text"></div>
 								</div>
 							</div>
 						</div>
@@ -755,52 +743,52 @@
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
 									<div class="block-icon"><i class="miami-icon icon-ice-cream"></i></div>
-									<h4 class="service-title">COMMERCIAL SHOOTS</h4>
-									<div class="service-text">Dolor sit amet, tetur adipisicing elit, sed do eiu smod temporin cididunt ut labore</div>
+									<h4 class="service-title">COMING SOON</h4>
+									<div class="service-text"></div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-					<div class="vc_column-inner ">
-						<div class="wpb_wrapper">
-							<div class="services-wrap animatedBlock">
-								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-drink"></i></div>
-									<h4 class="service-title">HAN PARTIES</h4>
-									<div class="service-text">Psum dolor sit amet, ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</div>
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="services-wrap animatedBlock">
+												<div class="service-block service-entry">
+													<div class="block-icon"><i class="miami-icon icon-cupcake"></i></div>
+													<h4 class="service-title">COMING SOON</h4>
+													<div class="service-text"></div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-					<div class="vc_column-inner ">
-						<div class="wpb_wrapper">
-							<div class="services-wrap animatedBlock">
-								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-birthday-cake-2"></i></div>
-									<h4 class="service-title">BIRTHDAY PARTIES</h4>
-									<div class="service-text">Olor sit tetur adicing elit, sed do eiusmod tempor incididunt ut labore et</div>
+								<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="services-wrap animatedBlock">
+												<div class="service-block service-entry">
+													<div class="block-icon"><i class="miami-icon icon-mask"></i></div>
+													<h4 class="service-title">COMING SOON</h4>
+													<div class="service-text"></div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-					<div class="vc_column-inner ">
-						<div class="wpb_wrapper">
-							<div class="services-wrap animatedBlock">
-								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-crown"></i></div>
-									<h4 class="service-title">VIP SERVICE</h4>
-									<div class="service-text">Isum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</div>
+								<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="services-wrap animatedBlock">
+												<div class="service-block service-entry">
+													<div class="block-icon"><i class="miami-icon icon-ice-cream"></i></div>
+													<h4 class="service-title">COMING SOON</h4>
+													<div class="service-text"></div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 		<div id="gallery" class="container add_animation">
@@ -812,7 +800,7 @@
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
 								<h2 class="block-title">Gallery</h2>
 								<div class="block-text">
-									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<p>Some exciting captured moments of various events of last years Enthusia.</p>
 								</div>
 							</div>
 						</div>
@@ -1128,7 +1116,7 @@
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
 								<h2 class="block-title">Registration</h2>
 								<div class="block-text">
-									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<p> Online Registration is mandatory for all the participants. Last date of registration through e-mail or post is 5th of April, 2017. Please confirm your participation by this date. Kindly do so by e-mail, and subsequently mail the signed registration form.</p>
 								</div>
 							</div>
 						</div>
