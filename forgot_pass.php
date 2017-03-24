@@ -37,7 +37,7 @@ Thanks!
 	    $headers .= "Return-Path: $from\r\n";
 	    $headers .= "X-Mailer: PHP \r\n";
 	    $headers .= "MIME-Version: 1.0\r\n";
-	    $headers .= "content-type: text/html; charset=UTF-8\r\n";
+	    $headers .= "content-type: text/plain; charset=UTF-8\r\n";
 		if(mail($to,$subject,$message,$headers))
 	    {
 			alert("<center><strong>Success!</strong> Your credentials have been sent to your email id.</center>");
