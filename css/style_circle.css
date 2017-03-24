@@ -41,7 +41,7 @@
           transform-style: preserve-3d;
   border-radius: 100%;
   box-sizing: border-box;
-  box-shadow: 0 0 60px #7F4E6B, inset 0 0 60px #7F4E6B;
+  box-shadow: 0 0 60px #B4F902, inset 0 0 60px #B4F902;
 }
 .plane.main .circle::before, .plane.main .circle::after {
   content: "";
@@ -56,7 +56,7 @@
   height: 10%;
   border-radius: 100%;
   box-sizing: border-box;
-  box-shadow: 0 0 60px 2px #D9810A;
+  box-shadow: 0 0 60px 2px #9400D3;
 }
 .plane.main .circle::before {
   -webkit-transform: translateZ(-90px);
@@ -94,7 +94,7 @@
           transform-style: preserve-3d;
   border-radius: 100%;
   box-sizing: border-box;
-  box-shadow: 0 0 60px #E4CB0E, inset 0 0 60px #E4CB0D;
+  box-shadow: 0 0 60px #9400D3, inset 0 0 60px #9400D3;
 }
 .plane.main .circle1::before, .plane.main .circle1::after {
   content: "";
