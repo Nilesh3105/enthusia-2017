@@ -72,7 +72,7 @@
   clip: rect(0, 50px, 100px, 0);
 }
 
-.time {
+.timer > .time {
   display: table;
   width: 100px;
   height: 100px;
@@ -80,18 +80,18 @@
   max-width: 30vw;
   position: relative;
 }
-.time p {
+.timer > .time p {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
 }
-.time p strong {
+.timer > .time p strong {
   color: #ddd;
   letter-spacing: 1px;
   font-size: 1.5em;
   font-weight: normal;
 }
-.time p span {
+.timer > .time p span {
   color: #fff;
   font-style: italic;
   font-family: serif;
