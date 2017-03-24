@@ -1417,9 +1417,9 @@
 						342011
 					</div>
 					<a href="mailto:info@enthusia2017.com">
-						info@enthusia2017.com
+						info@enthusia2k17.com
 					</a>
-					<a href="tel:+9102912551566">0291-2551566</a>
+					<a>7821905269</a>
 				</div>
 			</div>
 			<div class="copy">
