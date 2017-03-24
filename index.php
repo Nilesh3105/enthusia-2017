@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-	<!-- Mirrored from foxthemes.com/web/wp/miami/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Mar 2017 19:58:31 GMT -->
-	<!-- Added by HTTrack -->
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<!-- /Added by HTTrack -->
 	<head>
 		<meta charset="UTF-8">
 		<meta name="format-detection" content="telephone=no"/>
@@ -123,7 +120,7 @@
 						</li>
 						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
 						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsers" class="anchor-scroll">Sponsers</a></li>
-						<!-- <li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-854"><a href="index.php#team" class="anchor-scroll">Team</a></li> -->
+						
 					</ul>
 					<div class="logo-block">
 						<a class="logo" href="index.php">
@@ -133,9 +130,9 @@
 					<ul id="menu-top-right-menu" class="anchor-navigation">
 						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
 						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#Registration" class="anchor-scroll">Registration</a></li>
-						<!-- <li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-847"><a href="index.php#testimonials" class="anchor-scroll">Testimonials</a></li> -->
-						<!-- <li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-848"><a href="index.php#news" class="anchor-scroll">News</a></li> -->
-						<!-- <li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-849"><a href="index.php#contact" class="anchor-scroll">Contact</a></li> -->
+						
+						
+						
 						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
 						<?php if(!isset($_SESSION['logged_in'])) { ?>
 							<a href="login.php">Login</a>
@@ -164,7 +161,6 @@
 							<div class="banner-slider-wrap  ">
 							<div class="row" style="margin: 100px auto 0px;">
 								<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
-									<!-- <div class="view"> -->
   										<div class="plane main" >
 										    <div class="circle"></div>
 										    <div class="circle"></div>
@@ -172,7 +168,6 @@
 										    <div class="circle"></div>
 										    <div class="circle"></div>
 										    <div class="circle"></div>
-									  <!-- </div> -->
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -191,7 +186,7 @@
 									
 								</div>	
 								<div class="col-md-2" style="padding-top: 5%">
-									<!-- <div class="view"> -->
+									
   										<div class="plane main" >
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
@@ -199,7 +194,7 @@
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
 										    <div class="circle1"></div>
-									  <!-- </div> -->
+									  
 									</div>
 								</div>
 								<div class="row">
@@ -1245,17 +1240,17 @@
 				</div>
 			</div>
 		</div> -->
-		<!-- <div id="news" class="container add_animation">
+		<div id="news" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-95t margin-sm-50t margin-xs-35t">
 					<div class="vc_column-inner vc_custom_1476876568754">
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Interesting News</h2>
-								<div class="block-text">
+								<h2 class="block-title">Contributors</h2>
+								<!-- <div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -1267,7 +1262,7 @@
 						<div class="wpb_wrapper">
 							<div>
 								<div class="row wp-social-margin">
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+									<!-- <div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-2">
 											<div class="wp-b-news-entry-wrap img-wrap">
 												<img class="s-img-switch" src="http://graph.facebook.com/546489015542683/picture" alt="">
@@ -1299,45 +1294,54 @@
 												<div class="news-date"><i class="fa fa-calendar"></i> 10:39 October 19, 2016</div>
 											</div>
 										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Rem ipsum dolor sit amet, consectetur sed do #Miami elit, sed do eius...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 11:51 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Morem ipsum dolor sit amet, consectetur sed do #Miami elit, sed do ei...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 8:34 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Ipsum dolor sit amet, consectetur sed do #Miami elit, sed do eiusmod ...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 8:33 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
 									</div> -->
-								<!-- </div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+										<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Manish Sharma
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/dream.weaver19"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/manishsharma1901"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+										<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Nilesh Hirani
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/Nilesh3105"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/nileshhirani"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+									<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Piyush Sharma
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/piyusharma95"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/piyusharma95"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="vc_row-full-width"></div>
-		</div>  -->
+		</div> 
 	<!-- 	<div id="contact" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-80t margin-lg-25b margin-sm-50t margin-sm-25b margin-xs-35t margin-xs-25b">
@@ -1444,5 +1448,5 @@
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>
 		<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 	</body>
-	<!-- Mirrored from foxthemes.com/web/wp/miami/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Mar 2017 20:02:16 GMT -->
+	
 </html>
