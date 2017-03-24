@@ -204,7 +204,7 @@
 								</div>
 								<div class="row">
 									<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
-								  		<div blt-countdown-timer type="hms" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
+								  		<div blt-countdown-timer type="dhm" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
 									</div>
 								</div>
 							</div>
