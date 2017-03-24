@@ -1297,10 +1297,10 @@
 									</div> -->
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Manish Sharma
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/dream.weaver19"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
@@ -1310,10 +1310,10 @@
 									</div>
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Nilesh Hirani
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/Nilesh3105"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
@@ -1323,10 +1323,10 @@
 									</div>
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 									<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Piyush Sharma
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/piyusharma95"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
