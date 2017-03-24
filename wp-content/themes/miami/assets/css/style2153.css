@@ -6098,7 +6098,7 @@ body .single-page .container.has-no-title {
 }
 .news-entry .news {
     position: relative;
-    min-height: 220px;
+   /* min-height: 220px;*/
     overflow: hidden;
 }
 .news-entry .news:hover .img-wrap {
@@ -6109,12 +6109,12 @@ body .single-page .container.has-no-title {
     margin-bottom: 50px;
 }
 .news.type-1 {
-    padding: 22px 30px 70px 30px;
+    padding: 22px 30px 20px 30px;
 }
 .news.type-1 .news-type {
-    display: block;
-    position: absolute;
-    left: 23px;
+  /*  display: block;*/
+    position: sticky;
+  /*  left: 23px;*/
     bottom: 26px;
     width: 26px;
     height: 26px;
@@ -6128,6 +6128,9 @@ body .single-page .container.has-no-title {
 }
 .news.type-1 .news-type i {
     line-height: 26px;
+}
+.news.type-1 p {
+    font-family: "Roboto";
 }
 .news.type-1 .news-likes {
     position: absolute;

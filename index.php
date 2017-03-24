@@ -1257,17 +1257,17 @@
 				</div>
 			</div>
 		</div> -->
-		<!-- <div id="news" class="container add_animation">
+		<div id="news" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-95t margin-sm-50t margin-xs-35t">
 					<div class="vc_column-inner vc_custom_1476876568754">
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Interesting News</h2>
-								<div class="block-text">
+								<h2 class="block-title">Contributors</h2>
+								<!-- <div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -1279,7 +1279,7 @@
 						<div class="wpb_wrapper">
 							<div>
 								<div class="row wp-social-margin">
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+									<!-- <div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-2">
 											<div class="wp-b-news-entry-wrap img-wrap">
 												<img class="s-img-switch" src="http://graph.facebook.com/546489015542683/picture" alt="">
@@ -1311,45 +1311,54 @@
 												<div class="news-date"><i class="fa fa-calendar"></i> 10:39 October 19, 2016</div>
 											</div>
 										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Rem ipsum dolor sit amet, consectetur sed do #Miami elit, sed do eius...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 11:51 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Morem ipsum dolor sit amet, consectetur sed do #Miami elit, sed do ei...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 8:34 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 twitter">
-											<h4><a class="news-title" href="https://twitter.com/loren_miami">Ipsum dolor sit amet, consectetur sed do #Miami elit, sed do eiusmod ...</a></h4>
-											<div class="news-date"><i class="fa fa-calendar"></i> 8:33 October 19, 2016</div>
-											<a class="news-type" rel="nofollow" target="_blank" href="https://twitter.com/loren_miami"><i class="fa fa-twitter"></i></a>
-											<div class="news-likes">
-												<a href="https://twitter.com/loren_miami"><i class="fa fa-heart"></i> 1</a>
-											</div>
-										</div>
 									</div> -->
-								<!-- </div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+										<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Manish Sharma
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/dream.weaver19"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/manishsharma1901"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+										<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Nilesh Hirani
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/Nilesh3105"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/nileshhirani"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
+									<div class="news type-1 facebook">
+										<div style="float:left; width: 70%;">
+											Piyush Sharma
+											</div>
+										<div style="float:left; width: 15%">
+											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/piyusharma95"><i class="fa fa-facebook"></i></a>
+											</div>
+										<div style="float:right;">
+												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/piyusharma95"><i class="fa fa-linkedin"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="vc_row-full-width"></div>
-		</div>  -->
+		</div> 
 	<!-- 	<div id="contact" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-80t margin-lg-25b margin-sm-50t margin-sm-25b margin-xs-35t margin-xs-25b">
