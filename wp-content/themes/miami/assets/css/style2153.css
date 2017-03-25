@@ -6389,8 +6389,8 @@ body .single-page .container.has-no-title {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-.events-wrapper .tabs-content2 .colum #event_background {
-    background-image:url(images/eagle.png); 
+#event_background {
+    background-image:url(../../../../../images/eagle.png); 
     background-repeat:no-repeat;
     background-position: center center;
 }
