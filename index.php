@@ -146,7 +146,7 @@
 										</div>
 									</div>
 									<div class="col-md-6">
-										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 8 APRIL!</p>
+										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 7 APRIL!</p>
 										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
 										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
@@ -167,7 +167,7 @@
 									</div>
 									<div class="row">
 										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
-											<div blt-countdown-timer type="dhm" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
+											<div blt-countdown-timer type="dhm" date="Sat, 7 April 2017 08:00:00 GMT+5:30"></div> 
 										</div>
 									</div>
 								</div>
