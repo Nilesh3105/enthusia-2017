@@ -7727,3 +7727,6 @@ div.dev a {
     float: right;
     width: 20px;
 }
+.events-wrapper .tabs-header2, .events-wrapper .tabs-content2 {
+    vertical-align: middle;
+}
