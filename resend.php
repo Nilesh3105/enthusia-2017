@@ -20,7 +20,7 @@ if(isset($_POST['resend_link'])) {
 		else{
 
 			$code    = $row["code"];
-			$from    = "noreply@enthusia.mbm.ac.in";
+			$from    = "noreply@enthusia2k17.com";
 	        $to      = $email;
 	        $subject = 'Signup | Verification';
 	        $message = 'Thanks for signing up!

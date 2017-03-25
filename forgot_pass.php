@@ -17,7 +17,7 @@ if(isset($_POST['forgot_pass'])) {
 		$name = $row['name'];
 		$encid = "ET17".str_pad($row['id'], 4, '0', STR_PAD_LEFT);
 		
-		$from    = "noreply@enthusia.mbm.ac.in";
+		$from    = "noreply@enthusia2k17.com";
         $to      = $_POST['email'];
         $subject = 'Login Credentials';
         $message = "Hi $name,

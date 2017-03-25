@@ -41,17 +41,17 @@ if(isset($_POST['user_signup'])) {
 	if($flag) 
 	{
 		$code    = getToken(32);
-		$from    = "noreply@enthusia.mbm.ac.in";
+		$from    = "noreply@enthusia2k17.com";
 		$to      = $_POST['email'];
 		$subject = 'Signup | Verification';
 		$message = 'Thanks for signing up!
 
-		Your account has been created, you need to verify your email before you can login.
+Your account has been created, you need to verify your email before you can login.
 
-		Please click this link to activate your account:
-		http://'.$_SERVER['SERVER_NAME'].dirname($_SERVER['SCRIPT_NAME']).'verify.php?code='.$code.'&email='.$_POST['email'].'
+Please click this link to activate your account:
+http://'.$_SERVER['SERVER_NAME'].dirname($_SERVER['SCRIPT_NAME']).'verify.php?code='.$code.'&email='.$_POST['email'].'
 
-		Thanks!
+Thanks!
 		';
 		$headers = "From: $from\r\n";
 		$headers .= "Reply-To: $from\r\n";
