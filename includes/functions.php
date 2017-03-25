@@ -31,6 +31,6 @@ function getToken($length)
 
 function alert($msg, $type="success")
 {
-	echo '<div class="alert alert-'.$type.' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>'.$msg.'</div>';
+	echo '<div class="alert alert-'.$type.' alert-dismissible" role="alert" style="font-size: large;"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>'.$msg.'</div>';
 }
 ?>

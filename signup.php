@@ -73,7 +73,7 @@ Thanks!
 			try {
 				$database->execute();
 				if($database->rowCount() > 0){
-					alert("<center><strong>Success!</strong> User was registered successfully! An activation link has been sent to your mail id.</center>");
+					alert("<center><strong>Success!</strong> User was registered successfully! An activation link has been sent to your mail id.<br>Don't forget to check your spam folder!</center>");
 				}
 				else {
 					alert("<center><strong>Failure!</strong> An unexpected error occurred.</center>", "danger");

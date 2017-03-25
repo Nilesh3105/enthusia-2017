@@ -6389,6 +6389,11 @@ body .single-page .container.has-no-title {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+#event_background {
+    background-image:url(../../../../../images/eagle.png); 
+    background-repeat:no-repeat;
+    background-position: center center;
+}
 .events-wrapper .tabs-content2 .colum .date {
     font-size: 76px;
     font-family: "Roboto", sans-serif;
@@ -6398,6 +6403,7 @@ body .single-page .container.has-no-title {
     margin-bottom: 8px;
     text-align: center;
     font-weight: 800;
+    opacity: 0;
 }
 .events-wrapper .tabs-content2 .colum .text {
     font-size: 14px;
@@ -6696,7 +6702,7 @@ body .single-page .container.has-no-title {
 @media screen and (max-width: 600px) {
     .events-wrapper .tabs-content2 .colum .date {
         font-size: 25px;
-        display: block;
+        display: none;
     }
     .events-wrapper .tabs-content2 .colum .wrap-title .title {
         position: static;

@@ -40,7 +40,7 @@ Thanks!
 	    $headers .= "content-type: text/plain; charset=UTF-8\r\n";
 		if(mail($to,$subject,$message,$headers))
 	    {
-			alert("<center><strong>Success!</strong> Your credentials have been sent to your email id.</center>");
+			alert("<center><strong>Success!</strong> Your credentials have been sent to your email id.<br>Don't forget to check your spam folder!</center>");
 		}
 		else {
 			alert("<center><strong>Failure!</strong> There was an error sending the mail. Please try again later.</center>", "danger");
