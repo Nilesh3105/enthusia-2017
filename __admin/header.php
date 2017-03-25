@@ -54,7 +54,7 @@ require_once "../includes/functions.php";
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="index.php#home" style="padding:0px;margin-left:10px;height:100%;"><img src="../wp-content/uploads/2016/11/logo.png"></a>
+					<a class="navbar-brand" href="index.php#home" style="padding:0px;margin-left:10px;height:100%;"><img src="../wp-content/uploads/2016/11/logo.png" height="50px"></a>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">
