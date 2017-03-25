@@ -175,15 +175,9 @@
 									<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 									<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
 									<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-										quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-										consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-										cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-										proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+										Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential. 
 
 									</p>
-									
 								</div>	
 								<div class="col-md-2" style="padding-top: 5%">
 									
@@ -1297,10 +1291,10 @@
 									</div> -->
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Manish Sharma
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/dream.weaver19"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
@@ -1310,10 +1304,10 @@
 									</div>
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 										<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Nilesh Hirani
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/Nilesh3105"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
@@ -1323,10 +1317,10 @@
 									</div>
 									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
 									<div class="news type-1 facebook">
-										<div style="float:left; width: 70%;">
+										<div style="float:left; width: 80%;">
 											Piyush Sharma
 											</div>
-										<div style="float:left; width: 15%">
+										<div style="float:left; width: 10%">
 											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/piyusharma95"><i class="fa fa-facebook"></i></a>
 											</div>
 										<div style="float:right;">
