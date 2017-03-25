@@ -248,13 +248,16 @@
 									<div class="tabs-header">
 										<ul>
 											<li class="animatedBlock  active">
-												<a href="#">April 8</a>
+												<a href="#">Team Events</a>
 											</li>
 											<li class="animatedBlock ">
-												<a href="#">April 9</a>
+												<a href="#">Athletics</a>
 											</li>
 											<li class="animatedBlock ">
-												<a href="#">April 10</a>
+												<a href="#">Indoors</a>
+											</li>
+											<li class="animatedBlock ">
+												<a href="#">Others</a>
 											</li>
 										</ul>
 									</div>
@@ -279,6 +282,10 @@
 															<a href="#">
 															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
 														</li>
+														<li class="animatedBlock">
+															<a href="#">
+															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
@@ -287,21 +294,20 @@
 															<div class="colum animatedBlock content ">
 																<div class="wrap-title">
 																	<div class="date">
-																		8<sup>th</sup> April 
+																		Enthusia 
 																	</div>
 																	<div class="title">CRICKET</div>
 																</div>
 																<div class="text" >
-																	START AT 9.00 AM • Boys Criket(maximum candidates allowed are 15 per team) • Girls Cricket(maximum candidates allowed are 15 per team)
+																	START AT 9.00 AM • Boys Criket(maximum candidates allowed are 15 per team) • Registration fees for boys is ₹ 1500/- • Girls Cricket(maximum candidates allowed are 6 per team) • Registration is FREE
 																</div>
 																<div class="time"> 
-																	<a href="docs/Cricket.pdf"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Cricket.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	1500 </span>
+																	20,000 </span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -321,16 +327,15 @@
 																	<div class="title">BASKETBALL</div>
 																</div>
 																<div class="text" >
-																	START AT 11.00 AM • Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team)
+																	START AT 11.00 AM • Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team) • Registration fees is ₹ 1000/-
 																</div>
 																<div class="time"> 
-																	<a href="docs/Basketball%20Rules.pdf"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	1200 </span>
+																	1200</span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -350,16 +355,15 @@
 																	<div class="title">VOLLEYBALL</div>
 																</div>
 																<div class="text">
-																	START AT 2.00 PM • Boys Volleyball(maximum candidates allowed are 9 per team) 
+																	START AT 2.00 PM • Boys Volleyball(maximum candidates allowed are 9 per team) • Registration fees is ₹ 1000/-
 																</div>
 																<div class="time"> 
-																	<a href="docs/Volleyball%20Rules.pdf"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Volleyball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	1000 </span>
+																	5000 </span>
 																	</a>
 																	<span>PRICE</span>
 																</div>
@@ -379,15 +383,44 @@
 																	<div class="title">Football</div>
 																</div>
 																<div class="text" >
-																	START AT 4.00 PM • Boys Football(maximum candidates allowed are 15 per team) 
+																	START AT 4.00 PM • Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-
 																</div>
 																<div class="time"> 
-																	<a href="docs/football.pdf"><input type="submit" value="Rules"/></a>
+																	<a href="docs/Football%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
 																</div>
 																<div class="price">
 																<a>
 																	<span class="price-item">
-																		<sup>₹</sup>1500
+																		<sup>₹</sup>6000
+																	</span>
+																</a>	
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="images/events/football.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		8<sup>th</sup> April 
+																	</div>
+																	<div class="title">Kabbadi</div>
+																</div>
+																<div class="text" >
+																	START AT 4.00 PM • Boys Kabbadi(maximum candidates allowed are 10 per team) • Registration fees is ₹ 1000/-
+																</div>
+																<div class="time"> 
+																	<a href="docs/Football%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
+																</div>
+																<div class="price">
+																<a>
+																	<span class="price-item">
+																		<sup>₹</sup>3500
 																	</span>
 																</a>	
 																	<span>PRICE</span>
@@ -421,6 +454,10 @@
 															<a href="#">
 															<img class="s-img-switch" src="wp-content/uploads/2016/10/AKON1_cr.jpg" alt=""> </a>
 														</li>
+														<li class="animatedBlock">
+															<a href="#">
+															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
@@ -431,21 +468,19 @@
 																	<div class="date">
 																		9<sup>th</sup> April 
 																	</div>
-																	<div class="title">“PORTA CHALENG”</div>
+																	<div class="title">SPRINT</div>
 																</div>
 																<div class="text">
-																	Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit. 
+																	START AT 09.00 AM • Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/- 
 																</div>
 																<div class="time">
-																	START AT 7.30 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
-																	<sup>₹</sup>
-																	18 </span>
+																	MEDALS</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -460,21 +495,19 @@
 																	<div class="date">
 																		9<sup>th</sup> April 
 																	</div>
-																	<div class="title">“JUST YOUR CHOICE”</div>
+																	<div class="title">SHOT PUT</div>
 																</div>
 																<div class="text">
-																	Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+																	 STARTS AT 11AM • Registration fees for each is ₹ 50/-
 																</div>
 																<div class="time">
-																	START AT 10.00 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
-																	<sup>₹</sup>
-																	30 </span>
+																	MEDALS</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -489,21 +522,73 @@
 																	<div class="date">
 																		9<sup>th</sup> April 
 																	</div>
-																	<div class="title">&quot;TEAMO PARTY&quot;</div>
+																	<div class="title">HIGH JUMP</div>
 																</div>
 																<div class="text">
-																	Oncididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit. Sed do eiusmod tempor 
+																	STARTS AT 1 PM • Registration fees for each is ₹ 50/- 
 																</div>
 																<div class="time">
-																	START AT 10.30 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
-																	<sup>₹</sup>
-																	40 </span>
+																	MEDALS</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		9<sup>th</sup> April 
+																	</div>
+																	<div class="title">LONG JUMP</div>
+																</div>
+																<div class="text">
+																	STARTS AT 3PM • Registration fees for each is ₹ 50/- 
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	MEDALS</span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		9<sup>th</sup> April 
+																	</div>
+																	<div class="title">WEIGHT LIFTING</div>
+																</div>
+																<div class="text">
+																	STARTS AT 3PM • Registration fees for each is ₹ 50/-
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	MEDALS</span>
+																	</a>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -534,6 +619,10 @@
 															<a href="#">
 															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
 														</li>
+														<li class="animatedBlock">
+															<a href="#">
+															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
@@ -544,21 +633,20 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">“DANCER BUTL”</div>
+																	<div class="title">BADMINTION</div>
 																</div>
 																<div class="text">
-																	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur 
+																	STARTS AT 9AM • Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
-																	START AT 6.30 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	10 </span>
+																	4100</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -573,21 +661,47 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">“HOT DEGUSTATION”</div>
+																	<div class="title">SWIMMING</div>
 																</div>
 																<div class="text">
-																	Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+																	STARTS AT 11AM • Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
-																	START AT 9.00 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
+																	<span class="price-item">
+																	MEDALS</span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">TABLE TENNIS</div>
+																</div>
+																<div class="text">
+																	STARTS AT 1PM • Table Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Table Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	30 </span>
+																	1500</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -602,25 +716,164 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">&quot;FINAL PARTY&quot;</div>
+																	<div class="title">CHESS</div>
 																</div>
 																<div class="text">
-																	sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commouis nosconsectetur. Consectetur adipisicing elit 
+																	STARTS AT 3PM • Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
-																	START AT 10.30 PM 
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
-																	<a href="index1418.html?add-to-cart=863">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	45 </span>
+																	500</span>
 																	</a>
-																	<span>ENTRANCE</span>
+																	<span>PRICE</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
 																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">CARROM</div>
+																</div>
+																<div class="text">
+																	STARTS AT 4pM • Registration fees is ₹ 100/-
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	<sup>₹</sup>
+																	500 </span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="tabs-item">
+											<div class="tabs2">
+												<div class="tabs-header2">
+													<ul>
+														<li class="animatedBlock  active">
+															<a href="#">
+															<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> </a>
+														</li>
+														<li class="animatedBlock ">
+															<a href="#">
+															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+														</li>
+														<li class="animatedBlock ">
+															<a href="#">
+															<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> </a>
+														</li>
+														<li class="animatedBlock ">
+															<a href="#">
+															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+														</li>
+														<li class="animatedBlock">
+															<a href="#">
+															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+														</li>
+													</ul>
+												</div>
+												<div class="tabs-content2">
+													<div class="tabs-item2 active">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">KHO-KHO</div>
+																</div>
+																<div class="text">
+																	STARTS AT 11AM • Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	MEDALS</span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">LAWN TENNIS</div>
+																</div>
+																<div class="text">
+																	STARTS AT 1PM • Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	MEDALS</span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content ">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">IPL AUCTION</div>
+																</div>
+																<div class="text">
+																	STARTS AT 11AM • Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-
+																</div>
+																<div class="time">
+																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																</div>
+																<div class="price">
+																	<span class="price-item">
+																	<sup>₹</sup>
+																	15,000 </span>
+																	</a>
+																	<span>PRICE</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
