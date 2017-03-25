@@ -309,7 +309,7 @@
 																	<sup>₹</sup>
 																	20,000 </span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -337,7 +337,7 @@
 																	<sup>₹</sup>
 																	1200</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -365,7 +365,7 @@
 																	<sup>₹</sup>
 																	5000 </span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -394,7 +394,7 @@
 																		<sup>₹</sup>6000
 																	</span>
 																</a>	
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -423,7 +423,7 @@
 																		<sup>₹</sup>3500
 																	</span>
 																</a>	
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -480,7 +480,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -498,7 +498,7 @@
 																	<div class="title">SHOT PUT</div>
 																</div>
 																<div class="text">
-																	 STARTS AT 11AM • Registration fees for each is ₹ 50/-
+																	 STARTS AT 11AM • Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
@@ -507,7 +507,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -525,7 +525,7 @@
 																	<div class="title">HIGH JUMP</div>
 																</div>
 																<div class="text">
-																	STARTS AT 1 PM • Registration fees for each is ₹ 50/- 
+																	STARTS AT 1 PM • Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -534,7 +534,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -552,7 +552,7 @@
 																	<div class="title">LONG JUMP</div>
 																</div>
 																<div class="text">
-																	STARTS AT 3PM • Registration fees for each is ₹ 50/- 
+																	STARTS AT 3PM • Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -561,7 +561,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -579,7 +579,7 @@
 																	<div class="title">WEIGHT LIFTING</div>
 																</div>
 																<div class="text">
-																	STARTS AT 3PM • Registration fees for each is ₹ 50/-
+																	STARTS AT 3PM • Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -588,7 +588,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -646,7 +646,7 @@
 																	<sup>₹</sup>
 																	4100</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -673,7 +673,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -701,7 +701,7 @@
 																	<sup>₹</sup>
 																	1500</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -729,7 +729,7 @@
 																	<sup>₹</sup>
 																	500</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -757,7 +757,7 @@
 																	<sup>₹</sup>
 																	500 </span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -814,7 +814,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -841,7 +841,7 @@
 																	<span class="price-item">
 																	MEDALS</span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
@@ -869,7 +869,7 @@
 																	<sup>₹</sup>
 																	15,000 </span>
 																	</a>
-																	<span>PRICE</span>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
