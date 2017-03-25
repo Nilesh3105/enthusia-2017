@@ -11,6 +11,7 @@ else if(!isset($_SESSION['enthusia_id'])) {
 
 $events_name = array(
 				"cricket",
+				"basketball"
 				"volley_ball",
 				"football",
 				"kabbdi",
