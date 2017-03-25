@@ -7698,3 +7698,26 @@ body .rtb-booking-form .message textarea {
   src: local("Open Sans"), local("OpenSans"), url("http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2") format("woff2");
   unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+div.dev {
+  background-color: rgba(255,255,255,0.06);
+  padding: 25px;
+  margin-bottom: 20px;
+  font-family: 'Cookie', cursive;
+  -webkit-transition: background-color 400ms;
+  -moz-transition: background-color 400ms;
+  -o-transition: background-color 400ms;
+  -ms-transition: background-color 400ms;
+  transition: background-color 400ms;
+  text-transform: capitalize;
+}
+div.dev:hover {
+  background-color: rgba(255,255,255,0.2);
+}
+div.dev a {
+    color: white;
+    margin-left: 15px;
+    float: right;
+    width: 20px;
+}

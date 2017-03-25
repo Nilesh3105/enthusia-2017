@@ -1171,8 +1171,10 @@
 					<div class="vc_column-inner vc_custom_1476876568754">
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
-								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Contributors</h2>
+								<div class="block-icon">
+									<i class="fa fa-code" style="font-size: 30px; color: #d85b1f"></i>
+								</div>
+								<h2 class="block-title">Developed By</h2>
 								<!-- <div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 								</div> -->
@@ -1220,43 +1222,37 @@
 											</div>
 										</div>
 									</div> -->
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 facebook">
-										<div style="float:left; width: 80%;">
-											Manish Sharma
-											</div>
-										<div style="float:left; width: 10%">
-											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/dream.weaver19"><i class="fa fa-facebook"></i></a>
-											</div>
-										<div style="float:right;">
-												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/manishsharma1901"><i class="fa fa-linkedin"></i></a>
-											</div>
-										</div>
-									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-										<div class="news type-1 facebook">
-										<div style="float:left; width: 80%;">
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="dev">
 											Nilesh Hirani
-											</div>
-										<div style="float:left; width: 10%">
-											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/Nilesh3105"><i class="fa fa-facebook"></i></a>
-											</div>
-										<div style="float:right;">
-												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/nileshhirani"><i class="fa fa-linkedin"></i></a>
-											</div>
+											<a target="_blank" href="https://www.linkedin.com/in/nileshhirani">
+												<i class="fa fa-linkedin"></i>
+											</a>
+											<a target="_blank" href="https://www.facebook.com/Nilesh3105">
+												<i class="fa fa-facebook"></i>
+											</a>
 										</div>
 									</div>
-									<div class="news-entry animatedBlock col-xs-12 col-sm-6 col-md-4">
-									<div class="news type-1 facebook">
-										<div style="float:left; width: 80%;">
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="dev">
+											Manish Sharma
+											<a target="_blank" href="https://www.linkedin.com/in/manishsharma1901">
+												<i class="fa fa-linkedin"></i>
+											</a>
+											<a target="_blank" href="https://www.facebook.com/dream.weaver19">
+												<i class="fa fa-facebook"></i>
+											</a>
+										</div>
+									</div>
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="dev">
 											Piyush Sharma
-											</div>
-										<div style="float:left; width: 10%">
-											<a class="news-type" rel="nofollow" target="_blank" href="https://www.facebook.com/piyusharma95"><i class="fa fa-facebook"></i></a>
-											</div>
-										<div style="float:right;">
-												<a class="news-type" rel="nofollow" target="_blank" href="https://www.linkedin.com/in/piyusharma95"><i class="fa fa-linkedin"></i></a>
-											</div>
+											<a target="_blank" href="https://www.facebook.com/piyusharma95">
+												<i class="fa fa-linkedin"></i>
+											</a>
+											<a target="_blank" href="https://www.linkedin.com/in/piyusharma95">
+												<i class="fa fa-facebook"></i>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -1344,34 +1340,9 @@
 			</div>
 		</footer>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.mina752.js?ver=4.11.2.1'></script>
-		<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-			var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-			/* ]]> */
-		</script>
-		<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts167b.js?ver=4.6'></script>
-
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-
-			/* ]]> */
-		</script>
-
-
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-			var wc_cart_fragments_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
-			/* ]]> */
-		</script>
 		<script src='http://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js'></script>
 		<script src="js/index_timer.js"></script>
-
-
-
 		<script type='text/javascript' src='wp-includes/js/wp-embed.minfe9d.js?ver=4.7.3'></script>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>
-		<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 	</body>
-	
 </html>
