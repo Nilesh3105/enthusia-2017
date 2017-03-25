@@ -284,7 +284,7 @@
 												<div class="tabs-content2">
 													<div class="tabs-item2 active">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content" id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		8<sup>th</sup> April 
@@ -295,7 +295,7 @@
 																	START AT 9.00 AM • Boys Criket(maximum candidates allowed are 15 per team) • Girls Cricket(maximum candidates allowed are 15 per team)
 																</div>
 																<div class="time"> 
-																	<a href="docs/Cricket.pdf"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Cricket.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<a href="index1418.html?add-to-cart=863">
