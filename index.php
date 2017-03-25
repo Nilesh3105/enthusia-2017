@@ -12,11 +12,11 @@
 		<link rel='dns-prefetch' href='http://s.w.org/'/>
 		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Feed" href="feed/index.php"/>
 		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Comments Feed" href="comments/feed/index.php"/>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foxthemes.com\/web\/wp\/miami\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
-		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style> -->
 		<link rel='stylesheet' property='stylesheet' id='bootstrap-css' href='wp-content/themes/miami/assets/css/bootstrap.min2153.css?ver=1489780710' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='font-awesome-css' href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='idangerous.swiper-css' href='wp-content/themes/miami/assets/css/idangerous.swiper2153.css?ver=1489780710' type='text/css' media='all'/>
@@ -30,29 +30,16 @@
 		<link rel='stylesheet' property='stylesheet' id='miami-style-css' href='wp-content/themes/miami/stylefe9d.css?ver=4.7.3' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles167b.css?ver=4.6' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='demo_colors-css' href='wp-content/plugins/filter-theme-for-onepage/demo2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='woocommerce-layout-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce-layouta117.css?ver=2.6.11' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='woocommerce-smallscreen-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreena117.css?ver=2.6.11' type='text/css' media='only screen and (max-width: 768px)'/>
-		<link rel='stylesheet' property='stylesheet' id='woocommerce-general-css' href='wp-content/plugins/woocommerce/assets/css/woocommercea117.css?ver=2.6.11' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
 		 <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-
 		<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 		<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/idangerous.swiper.min2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/imagelightbox.min2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.classycountdown.min2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.knob2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.throttle2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyA6M45oe9V8IfJfUB6x4k0FKhmEf58nJAs&amp;ver=1489780710'></script>
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-			var js_data = {"ajaxurl":"http:\/\/foxthemes.com\/web\/wp\/miami\/wp-admin\/admin-ajax.php","siteurl":"http:\/\/foxthemes.com\/web\/wp\/miami\/wp-content\/themes\/miami"};
-			/* ]]> */
-		</script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/global2153.js?ver=1489780710'></script>
-	
-
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/anchors.navigation2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/customizer2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/equalHeightsPlugin2153.js?ver=1489780710'></script>
@@ -60,16 +47,8 @@
 		<script type='text/javascript' src='wp-content/themes/miami/assets/js/navigation2153.js?ver=1489780710'></script>
 		<script type='text/javascript' src='wp-content/plugins/filter-theme-for-onepage/js/filter2153.js?ver=1489780710'></script>
 		<script src="js/index.js"></script>
-		<link rel="stylesheet" type="text/css" href="css/style_timer.css">
-		
+		<link rel="stylesheet" type="text/css" href="css/style_timer.css">	
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-			var wc_add_to_cart_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/foxthemes.com\/web\/wp\/miami\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
-			/* ]]> */
-		</script>
-		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mina117.js?ver=2.6.11'></script>
-		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carta752.js?ver=4.11.2.1'></script>
 		<link rel='https://api.w.org/' href='wp-json/index.php'/>
 		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd"/>
 		<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"/>
@@ -81,7 +60,6 @@
 		
 		<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed312c.json?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F"/>
 		<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed52af?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F&amp;format=xml"/>
-		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
 		<!--[if lte IE 9]>
 		<link rel="stylesheet" type="text/css" href="http://foxthemes.com/web/wp/miami/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
 		<![endif]--><!--[if IE  8]>
@@ -130,9 +108,6 @@
 					<ul id="menu-top-right-menu" class="anchor-navigation">
 						<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-857"><a href="index.php#gallery" class="anchor-scroll">Gallery</a></li>
 						<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-846"><a href="index.php#Registration" class="anchor-scroll">Registration</a></li>
-						
-						
-						
 						<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-498">
 						<?php if(!isset($_SESSION['logged_in'])) { ?>
 							<a href="login.php">Login</a>
@@ -159,65 +134,43 @@
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
-							<div class="row" style="margin: 100px auto 0px;">
-								<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
-  										<div class="plane main" >
-										    <div class="circle"></div>
-										    <div class="circle"></div>
-										    <div class="circle"></div>
-										    <div class="circle"></div>
-										    <div class="circle"></div>
-										    <div class="circle"></div>
+								<div class="row" style="margin: 100px auto 0px;">
+									<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
+										<div class="plane main" >
+											<div class="circle"></div>
+											<div class="circle"></div>
+											<div class="circle"></div>
+											<div class="circle"></div>
+											<div class="circle"></div>
+											<div class="circle"></div>
+										</div>
 									</div>
-								</div>
-								<div class="col-md-6">
-								<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 8 APRIL!</p>
-									<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
-									<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
-									<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
-										Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential. 
+									<div class="col-md-6">
+										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 8 APRIL!</p>
+										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
+										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
+										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
+											Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential. 
+										</p>
+									</div>	
+									<div class="col-md-2" style="padding-top: 5%">
 
-									</p>
-								</div>	
-								<div class="col-md-2" style="padding-top: 5%">
-									
-  										<div class="plane main" >
-										    <div class="circle1"></div>
-										    <div class="circle1"></div>
-										    <div class="circle1"></div>
-										    <div class="circle1"></div>
-										    <div class="circle1"></div>
-										    <div class="circle1"></div>
-									  
+										<div class="plane main" >
+											<div class="circle1"></div>
+											<div class="circle1"></div>
+											<div class="circle1"></div>
+											<div class="circle1"></div>
+											<div class="circle1"></div>
+											<div class="circle1"></div>
+
+										</div>
+									</div>
+									<div class="row">
+										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
+											<div blt-countdown-timer type="dhm" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
+										</div>
 									</div>
 								</div>
-								<div class="row">
-									<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
-								  		<div blt-countdown-timer type="dhm" date="Sat, 8 April 2017 08:00:00 GMT+5:30"></div> 
-									</div>
-								</div>
-							</div>
-							
-								<!-- <div class="swiper-container" data-mode="horizontal" data-autoplay="0" data-loop="true" data-speed="600" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
-									<div class="swiper-wrapper" style="cursor: default;">
-										<div class="swiper-slide ">
-											<div class="slider-content">
-												
-											</div>
-										</div>
-										<div class="swiper-slide ">
-											<div class="slider-content">
-												
-											</div>
-										</div>
-										<div class="swiper-slide ">
-											<div class="slider-content">
-												
-											</div>
-										</div>
-									</div>
-									<div class="pagination"></div>
-								</div> -->
 							</div>
 						</div>
 					</div>
@@ -1123,28 +1076,6 @@
 											</div>
 										</div>
 									</div>
-								<!-- <form action="http://foxthemes.com/web/wp/miami/#wpcf7-f5-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-									<div style="display: none;">
-										<input type="hidden" name="_wpcf7" value="5"/>
-										<input type="hidden" name="_wpcf7_version" value="4.6"/>
-										<input type="hidden" name="_wpcf7_locale" value="en_US"/>
-										<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1"/>
-										<input type="hidden" name="_wpnonce" value="4943460c40"/>
-									</div>
-										<div class="row form-row">
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="YOUR NAME"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="PHONE"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-8 animatedBlock"> <span class="wpcf7-form-control-wrap event"><input type="text" name="event" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="COLLEGE"/></span></div>
-											<div class="col-xs-12 col-sm-6 col-md-4 animatedBlock"> <span class="wpcf7-form-control-wrap date"><select class="form-control" style="height:56px; font-size:12px; color:white; background-color:rgba(255,255,255,0.11); border:medium none; box-shadow:inherit; border-top-left-radius:5px; opacity:0.5;border-top-right-radius:5px">							  <option>B.E</option>
-												</span>
-											</div>
-										</div>
-										
-										
-									
-									<div class="wpcf7-response-output wpcf7-display-none"></div>
-								</form> -->
 							</div>
 						</div>
 					</div>
@@ -1420,14 +1351,14 @@
 			/* ]]> */
 		</script>
 		<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts167b.js?ver=4.6'></script>
-		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
+
 		<script type='text/javascript'>
 			/* <![CDATA[ */
-			var woocommerce_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%"};
+
 			/* ]]> */
 		</script>
-		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mina117.js?ver=2.6.11'></script>
-		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
+
+
 		<script type='text/javascript'>
 			/* <![CDATA[ */
 			var wc_cart_fragments_params = {"ajax_url":"\/web\/wp\/miami\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/web\/wp\/miami\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
@@ -1437,7 +1368,7 @@
 		<script src="js/index_timer.js"></script>
 
 
-		<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mina117.js?ver=2.6.11'></script>
+
 		<script type='text/javascript' src='wp-includes/js/wp-embed.minfe9d.js?ver=4.7.3'></script>
 		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>
 		<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
