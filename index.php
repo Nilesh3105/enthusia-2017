@@ -268,15 +268,15 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-152667975.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-1438638377.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-32322230115.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
@@ -284,7 +284,7 @@
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/kabaddi.jpg" alt=""> </a>
 														</li>
 													</ul>
 												</div>
@@ -313,13 +313,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-152667975.jpg" alt=""> 
+																<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		8<sup>th</sup> April 
@@ -341,13 +341,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-1438638377.jpg" alt=""> 
+																<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		8<sup>th</sup> April 
@@ -369,13 +369,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/stock-photo-32322230115.jpg" alt=""> 
+																<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		8<sup>th</sup> April 
@@ -404,7 +404,7 @@
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		8<sup>th</sup> April 
@@ -427,7 +427,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images/events/football.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/kabaddi.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -440,30 +440,30 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/Attractive_Girl_Dancing_at_night_club-1920x1080.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/athletics.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/AKON1_cr.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/shot-put.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/high-jump.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/AKON1_cr.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/long-jump.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/weight-lifting.jpg" alt=""> </a>
 														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
 													<div class="tabs-item2 active">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		9<sup>th</sup> April 
@@ -484,13 +484,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/Attractive_Girl_Dancing_at_night_club-1920x1080.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/athletics.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		9<sup>th</sup> April 
@@ -511,13 +511,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/AKON1_cr.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/shot-put.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		9<sup>th</sup> April 
@@ -538,13 +538,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/high-jump.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		9<sup>th</sup> April 
@@ -565,13 +565,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/long-jump.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		9<sup>th</sup> April 
@@ -592,7 +592,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/original.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/weight-lifting.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -605,30 +605,30 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/badminton.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/swimming.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/table-tennis.jpeg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/chess.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/carrom.jpg" alt=""> </a>
 														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
 													<div class="tabs-item2 active">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -650,13 +650,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/badminton.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -677,13 +677,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/swimming.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -705,13 +705,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/table-tennis.jpeg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -733,13 +733,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/chess.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -761,7 +761,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/carrom.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -774,30 +774,30 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/kho-kho.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/Tenis.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/ipl-auction.jpg" alt=""> </a>
 														</li>
-														<li class="animatedBlock ">
+														<!-- <li class="animatedBlock ">
 															<a href="#">
 															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="images/events/football.jpg" alt=""> </a>
-														</li>
+															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
+														</li> -->
 													</ul>
 												</div>
 												<div class="tabs-content2">
 													<div class="tabs-item2 active">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -818,13 +818,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/o-WOMAN-DANCING-80S-facebook.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/kho-kho.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -845,13 +845,13 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/tumblr_mxvzgyS23f1t6xqbko1_1280.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/Tenis.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
 													<div class="tabs-item2">
 														<div class="table">
-															<div class="colum animatedBlock content ">
+															<div class="colum animatedBlock content " id="event_background">
 																<div class="wrap-title">
 																	<div class="date">
 																		10<sup>th</sup> April 
@@ -873,7 +873,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/ipl-auction.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
