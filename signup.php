@@ -116,7 +116,7 @@ else { ?>
 								<div class="input-group">
 									<span class="input-group-addon"><i class="material-icons">person</i></span>
 									<label for="name" class="control-label">Name</label>
-									<input class="form-control" type="text" name="name" maxlength="60" required autofocus>
+									<input class="form-control" type="text" name="name" maxlength="60" required>
 								</div>
 							</div>
 							<div class="form-group label-floating">
