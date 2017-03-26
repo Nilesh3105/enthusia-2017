@@ -272,15 +272,15 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/cricket.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/basketball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/volleyball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
@@ -317,7 +317,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/cricket.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -345,7 +345,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/basketball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -373,7 +373,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/volleyball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
