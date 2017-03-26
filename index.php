@@ -1585,7 +1585,7 @@
 		<footer class="footer">
 			<div class="map-wrapper">
 				<div class="map-wrap">
-					<div class="map-block" id="map-canvas" data-marker="http://foxthemes.com/web/wp/miami/wp-content/uploads/2016/12/map_marker.png" data-lat="26.268431" data-lng="73.035687" data-zoom="14" data-style="style-1">
+					<div class="map-block" id="map-canvas" data-marker="images/map_marker.png" data-lat="26.268431" data-lng="73.035687" data-zoom="14" data-style="style-1">
 					</div>
 				</div>
 				<div class="contacts">
