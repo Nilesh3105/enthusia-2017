@@ -135,7 +135,7 @@
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
 								<div class="row" style="margin: 100px auto 0px;">
-									<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
+									<!-- <div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
 										<div class="plane main" >
 											<div class="circle"></div>
 											<div class="circle"></div>
@@ -144,8 +144,8 @@
 											<div class="circle"></div>
 											<div class="circle"></div>
 										</div>
-									</div>
-									<div class="col-md-6">
+									</div> -->
+									<div class="col-xs-12 col-md-8 col-md-offset-2">
 										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 7 APRIL!</p>
 										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
@@ -157,7 +157,7 @@
 											#Never Back Down #The Heat Is On
 										</p>
 									</div>	
-									<div class="col-md-2" style="padding-top: 5%">
+									<!-- <div class="col-md-2" style="padding-top: 5%">
 
 										<div class="plane main" >
 											<div class="circle1"></div>
@@ -168,7 +168,7 @@
 											<div class="circle1"></div>
 
 										</div>
-									</div>
+									</div> -->
 									<div class="row">
 										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
 											<div blt-countdown-timer type="dhm" date="Sat, 7 April 2017 08:00:00 GMT+5:30"></div> 
