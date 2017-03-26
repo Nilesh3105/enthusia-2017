@@ -149,8 +149,12 @@
 										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 7 APRIL!</p>
 										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
-										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(12px + 0.3vw);">
-											Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential. 
+										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(14px + 0.3vw);">
+											<!-- Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential.  -->
+											One spirit,One team,One win... <br>
+											Zest Passion Zeal<br>
+											With temperatures running high we present one of those must see displays of grit and sportsmanship. So let's be a part of this extravaganza from 7 April to 9 April.<br>
+											#Never Back Down #The Heat Is On
 										</p>
 									</div>	
 									<div class="col-md-2" style="padding-top: 5%">
@@ -1507,6 +1511,9 @@
 											<a target="_blank" href="https://www.linkedin.com/in/nileshhirani">
 												<i class="fa fa-linkedin"></i>
 											</a>
+											<a target="_blank" href="https://github.com/Nilesh3105/">
+												<i class="fa fa-github"></i>
+											</a>
 											<a target="_blank" href="https://www.facebook.com/Nilesh3105">
 												<i class="fa fa-facebook"></i>
 											</a>
@@ -1518,6 +1525,9 @@
 											<a target="_blank" href="https://www.linkedin.com/in/manishsharma1901">
 												<i class="fa fa-linkedin"></i>
 											</a>
+											<a target="_blank" href="https://github.com/hackinitiator/">
+												<i class="fa fa-github"></i>
+											</a>
 											<a target="_blank" href="https://www.facebook.com/dream.weaver19">
 												<i class="fa fa-facebook"></i>
 											</a>
@@ -1528,6 +1538,9 @@
 											Piyush Sharma
 											<a target="_blank" href="https://www.linkedin.com/in/piyusharma95">
 												<i class="fa fa-linkedin"></i>
+											</a>
+											<a target="_blank" href="https://github.com/piyusharma95/">
+												<i class="fa fa-github"></i>
 											</a>
 											<a target="_blank" href="https://www.facebook.com/piyusharma95">
 												<i class="fa fa-facebook"></i>
@@ -1598,7 +1611,7 @@
 		<footer class="footer">
 			<div class="map-wrapper">
 				<div class="map-wrap">
-					<div class="map-block" id="map-canvas" data-marker="http://foxthemes.com/web/wp/miami/wp-content/uploads/2016/12/map_marker.png" data-lat="26.268431" data-lng="73.035687" data-zoom="14" data-style="style-1">
+					<div class="map-block" id="map-canvas" data-marker="images/map_marker.png" data-lat="26.268431" data-lng="73.035687" data-zoom="14" data-style="style-1">
 					</div>
 				</div>
 				<div class="contacts">
