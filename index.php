@@ -268,15 +268,15 @@
 													<ul>
 														<li class="animatedBlock  active">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/cricket.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/basketball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock ">
 															<a href="#">
-															<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/volleyball.jpg" alt=""> </a>
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
@@ -313,7 +313,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\cricket.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/cricket.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -341,7 +341,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\basketball.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/basketball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -369,7 +369,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images\events\volleyball.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/volleyball.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -1500,10 +1500,10 @@
 									<div class="col-xs-12 col-sm-6 col-md-4">
 										<div class="dev">
 											Piyush Sharma
-											<a target="_blank" href="https://www.facebook.com/piyusharma95">
+											<a target="_blank" href="https://www.linkedin.com/in/piyusharma95">
 												<i class="fa fa-linkedin"></i>
 											</a>
-											<a target="_blank" href="https://www.linkedin.com/in/piyusharma95">
+											<a target="_blank" href="https://www.facebook.com/piyusharma95">
 												<i class="fa fa-facebook"></i>
 											</a>
 										</div>
