@@ -1485,6 +1485,9 @@
 											<a target="_blank" href="https://www.linkedin.com/in/nileshhirani">
 												<i class="fa fa-linkedin"></i>
 											</a>
+											<a target="_blank" href="https://github.com/Nilesh3105/">
+												<i class="fa fa-github"></i>
+											</a>
 											<a target="_blank" href="https://www.facebook.com/Nilesh3105">
 												<i class="fa fa-facebook"></i>
 											</a>
@@ -1496,6 +1499,9 @@
 											<a target="_blank" href="https://www.linkedin.com/in/manishsharma1901">
 												<i class="fa fa-linkedin"></i>
 											</a>
+											<a target="_blank" href="https://github.com/hackinitiator/">
+												<i class="fa fa-github"></i>
+											</a>
 											<a target="_blank" href="https://www.facebook.com/dream.weaver19">
 												<i class="fa fa-facebook"></i>
 											</a>
@@ -1506,6 +1512,9 @@
 											Piyush Sharma
 											<a target="_blank" href="https://www.linkedin.com/in/piyusharma95">
 												<i class="fa fa-linkedin"></i>
+											</a>
+											<a target="_blank" href="https://github.com/piyusharma95/">
+												<i class="fa fa-github"></i>
 											</a>
 											<a target="_blank" href="https://www.facebook.com/piyusharma95">
 												<i class="fa fa-facebook"></i>

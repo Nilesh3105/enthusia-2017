@@ -7723,9 +7723,8 @@ div.dev:hover {
 }
 div.dev a {
     color: white;
-    margin-left: 15px;
+    margin-left: 12px;
     float: right;
-    width: 20px;
 }
 .events-wrapper .tabs-header2, .events-wrapper .tabs-content2 {
     vertical-align: middle;
