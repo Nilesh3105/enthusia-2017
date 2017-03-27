@@ -923,10 +923,10 @@
 																	<a href="docs/#" target="_blank"><input type="submit" value="Rules" /></a>
 																</div> -->
 																<div class="price">
-																	<span class="price-item">
-																	<!-- <sup>₹</sup>
-																	15,000 </span> -->
-																	<span><abbr title="TO BE DECLARED SOON">TBD</abbr></span>
+																	<span class="price-item"><abbr title="TO BE DECLARED SOON">
+																	TBD</abbr></span>
+																	</a>
+																	<span>PRIZE POOL</span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
