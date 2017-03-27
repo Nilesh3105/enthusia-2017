@@ -926,7 +926,7 @@
 																	<span class="price-item">
 																	<!-- <sup>₹</sup>
 																	15,000 </span> -->
-																	<span>TO BE DECLARED</span>
+																	<span><abbr title="TO BE DECLARED SOON">TBD</abbr></span>
 																</div>
 															</div>
 															<div class="colum animatedBlock">
