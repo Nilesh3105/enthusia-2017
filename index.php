@@ -946,8 +946,32 @@
 			</div>
 			<div class="vc_row-full-width"></div>
 		</div>
+		<div id="codeofconduct" class="container add_animation">
+			<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1480422279776 vc_row-has-fill">
+				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-0t margin-sm-0t margin-xs-0t">
+					<div class="vc_column-inner vc_custom_1476875217258" style="padding-top: 0px;">
+						<div class="wpb_wrapper">
+							<div class="block-header animatedBlock ">
+								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
+								<h2 class="block-title">Code of Conduct</h2>
+								<div class="block-text" style="text-align: left; font-size: 16px;">
+									<ul>
+										<li style="list-style-type: disc;">All players should come in proper kits (shorts, t-shirts).</li>
+										<li style="list-style-type: disc;">Players should have clean Non-marking shoes and should be used only on the court.</li>
+										<li style="list-style-type: disc;">Practice slots will be provided, no team will be allowed to practice on court other than 	their slot.</li>
+										<li style="list-style-type: disc;">Any kind of interference/misconduct during the conduction of the game will lead to 	disqualification of the team.</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="vc_row-full-width"></div>
+		</div>
 		<div id="sponsers" class="container add_animation">
-			<div class="vc_row wpb_row vc_row-fluid padding-lg-50t padding-sm-10t padding-xs-0t" style="padding-top: 0px;">
+			<div class="vc_row wpb_row vc_row-fluid margin-lg-80t padding-lg-50t padding-sm-10t padding-xs-0t" style="padding-top: 0px;">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-30b">
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
