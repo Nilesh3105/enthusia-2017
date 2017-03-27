@@ -339,7 +339,7 @@
 																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	1200</span>
+																	10000</span>
 																	</a>
 																	<span>PRIZE POOL</span>
 																</div>
@@ -876,7 +876,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images/events/futsal.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/ipl-auction.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -1049,7 +1049,7 @@
 									</a>
 								</div>
 								<div class="item col-xs-12 col-sm-6 col-md-3">
-									<a class="gal-item animatedBlock big lightbox" href="wp-content/uploads/2016/10/stock-photo-156946557.jpg">
+									<a class="gal-item animatedBlock big lightbox" href="images/gallery%20photos/volleyball.jpg">
 										<img class="s-img-switch" src="images/gallery%20photos/volleyball.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
@@ -1077,7 +1077,7 @@
 									</a>
 								</div>
 								<div class="item col-xs-12 col-sm-3 col-md-3">
-									<a class="gal-item animatedBlock small lightbox" href="wp-content/uploads/2016/10/stock-photo-130487779.jpg">
+									<a class="gal-item animatedBlock small lightbox" href="images/gallery%20photos/prize-ceremony.jpg">
 										<img class="s-img-switch" src="images/gallery%20photos/prize-ceremony.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
@@ -1087,7 +1087,7 @@
 									</a>
 								</div>
 								<div class="item col-xs-12 col-sm-3 col-md-3">
-									<a class="gal-item animatedBlock small lightbox" href="wp-content/uploads/2016/10/AubFRQ8GFek.jpg">
+									<a class="gal-item animatedBlock small lightbox" href="images/gallery%20photos/basketball.jpg">
 										<img class="s-img-switch" src="images/gallery%20photos/basketball.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
@@ -1097,7 +1097,7 @@
 									</a>
 								</div>
 								<div class="item col-xs-12 col-sm-6 col-md-6">
-									<a class="gal-item animatedBlock big lightbox" href="wp-content/uploads/2016/10/stock-photo-148158693.jpg">
+									<a class="gal-item animatedBlock big lightbox" href="images/gallery%20photos/roadies.jpg">
 										<img class="s-img-switch" src="images/gallery%20photos/roadies.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
