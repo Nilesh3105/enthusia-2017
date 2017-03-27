@@ -26,10 +26,10 @@
   left: 50%;
   z-index: 10;
   margin-left: -5px;
-  background: #cae418;
+  background: #2F92D5;
 }
 .timer .track {
-  border: 3px solid #cae418;
+  border: 3px solid #2F92D5;
   width: 100px;
   height: 100px;
   border-radius: 50%;

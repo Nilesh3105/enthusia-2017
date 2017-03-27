@@ -135,7 +135,7 @@
 						<div class="wpb_wrapper">
 							<div class="banner-slider-wrap  ">
 								<div class="row" style="margin: 100px auto 0px;">
-									<!-- <div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
+									<div class="col-md-2 col-md-offset-1" style="padding-top: 5%">
 										<div class="plane main" >
 											<div class="circle"></div>
 											<div class="circle"></div>
@@ -144,8 +144,8 @@
 											<div class="circle"></div>
 											<div class="circle"></div>
 										</div>
-									</div> -->
-									<div class="col-xs-12 col-md-8 col-md-offset-2">
+									</div>
+									<div class="col-md-6">
 										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 7 APRIL!</p>
 										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
@@ -157,7 +157,7 @@
 											#Never Back Down #The Heat Is On
 										</p>
 									</div>	
-									<!-- <div class="col-md-2" style="padding-top: 5%">
+									<div class="col-md-2" style="padding-top: 5%">
 
 										<div class="plane main" >
 											<div class="circle1"></div>
@@ -168,7 +168,7 @@
 											<div class="circle1"></div>
 
 										</div>
-									</div> -->
+									</div>
 									<div class="row">
 										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
 											<div blt-countdown-timer type="dhm" date="Sat, 7 April 2017 08:00:00 GMT+5:30"></div> 
@@ -478,7 +478,7 @@
 																	START AT 09.00 AM • Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/- 
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -505,7 +505,7 @@
 																	 STARTS AT 11AM • Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
+																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -532,7 +532,7 @@
 																	STARTS AT 1 PM • Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -559,7 +559,7 @@
 																	STARTS AT 3PM • Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -586,7 +586,7 @@
 																	STARTS AT 3PM • Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -643,7 +643,7 @@
 																	STARTS AT 9AM • Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/badminton%20rules" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -753,7 +753,7 @@
 																	STARTS AT 4pM • Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -791,10 +791,10 @@
 															<a href="#">
 															<img class="s-img-switch" src="images/events/swimming.jpg" alt=""> </a>
 														</li>
-														<!-- <li class="animatedBlock">
+														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="wp-content/uploads/2016/10/Shots1.jpg" alt=""> </a>
-														</li> -->
+															<img class="s-img-switch" src="images/events/creed.jpg" alt=""> </a>
+														</li>
 													</ul>
 												</div>
 												<div class="tabs-content2">
@@ -811,7 +811,7 @@
 																	STARTS AT 11AM • Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/KhoKho.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -838,7 +838,7 @@
 																	STARTS AT 1PM • Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/LAWN%20TENNIS .pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -865,7 +865,7 @@
 																	STARTS AT 11AM • Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -893,7 +893,7 @@
 																	STARTS AT 11AM • Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
-																	<a href="docs/#%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/Swimming.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -904,6 +904,33 @@
 															</div>
 															<div class="colum animatedBlock">
 																<img class="s-img-switch" src="images/events/swimming.jpg" alt=""> 
+															</div>
+														</div>
+													</div>
+													<div class="tabs-item2">
+														<div class="table">
+															<div class="colum animatedBlock content " id="event_background">
+																<div class="wrap-title">
+																	<div class="date">
+																		10<sup>th</sup> April 
+																	</div>
+																	<div class="title">BATTLE CREED</div>
+																</div>
+																<div class="text">
+																	STARTS AT 11AM • This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team
+																</div>
+																<!-- <div class="time">
+																	<a href="docs/#" target="_blank"><input type="submit" value="Rules" /></a>
+																</div> -->
+																<div class="price">
+																	<span class="price-item">
+																	<!-- <sup>₹</sup>
+																	15,000 </span> -->
+																	<span>TO BE DECLARED</span>
+																</div>
+															</div>
+															<div class="colum animatedBlock">
+																<img class="s-img-switch" src="images/events/creed.jpg" alt=""> 
 															</div>
 														</div>
 													</div>
