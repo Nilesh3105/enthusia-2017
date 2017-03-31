@@ -38,7 +38,6 @@ if(isset($_POST['pass']) && $_POST['pass'] == "unlock") {
 					</div>
 					<div class="panel-body">
 						<h4>This user has already completed the procedure for registration and payment.</h4>
-						<h4>Payment of Rs.<?php echo $row['total']; ?> was recieved</h4>
 						<hr>
 						<h4>Do you want to unlock this user?</h4>
 						<form action="" method="POST" style="margin-top: 12px;">

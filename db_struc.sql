@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Mar 26, 2017 at 02:50 AM
+-- Generation Time: Apr 01, 2017 at 01:22 AM
 -- Server version: 5.7.17-0ubuntu0.16.04.1
 -- PHP Version: 7.0.15-0ubuntu0.16.04.4
 
@@ -69,6 +69,7 @@ CREATE TABLE `events` (
   `200_meters` tinyint(1) NOT NULL DEFAULT '0',
   `400_meters` tinyint(1) NOT NULL DEFAULT '0',
   `4x100_meters` tinyint(1) NOT NULL DEFAULT '0',
+  `battle_creed` tinyint(1) NOT NULL DEFAULT '0',
   `table_no` set('0','1','2','3') NOT NULL DEFAULT '0',
   `locked` tinyint(1) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;

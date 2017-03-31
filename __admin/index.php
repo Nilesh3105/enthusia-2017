@@ -1,5 +1,6 @@
 <?php
 require 'header.php';
+require '../includes/passwordLib.php';
 // echo password_hash("admin@enthusia#2017", PASSWORD_BCRYPT, ['cost' => 10]);
 array_walk($_POST, 'trim');
 if(isset($_POST['admin_login'])) {
