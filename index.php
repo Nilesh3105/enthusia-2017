@@ -1,3 +1,7 @@
+<?php
+	ob_start();
+	session_start();
+?>
 <!DOCTYPE html>
 <html lang="en-US">
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -73,6 +77,19 @@
 		<noscript>
 			<style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style>
 		</noscript>
+
+		<style type="text/css">
+			.header .centered-menu-wrap .main-nav > ul {
+				flex: 3;
+			}
+			.header .centered-menu-wrap .main-nav > div.logo-block {
+				flex: 1;
+				justify-content: center;
+			}
+			#menu-top-right-menu{
+				justify-content: flex-end;
+			}
+		</style>
 	</head>
 	<body class="home page-template-default page page-id-331 custom-background wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
 		<div id="loading">

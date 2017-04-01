@@ -68,6 +68,18 @@ require_once "includes/functions.php";
 			$("select").dropdown();
 		});
 	</script>
+	<style type="text/css">
+		.header .centered-menu-wrap .main-nav > ul {
+			flex: 3;
+		}
+		.header .centered-menu-wrap .main-nav > div.logo-block {
+			flex: 1;
+			justify-content: center;
+		}
+		#menu-top-right-menu{
+			justify-content: flex-end;
+		}
+	</style>
 </head>
 <body>
 	<header class="header clearfix">

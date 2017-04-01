@@ -12,7 +12,9 @@ if(!isset($_SESSION['logged_in'])) {
 			<div class="jumbotron">
 				<h2>Hi <?php echo $_SESSION['name']; ?>,</h2>
 				<p style="font-size: 21px; margin-left: 0.5em;">
-					Your Enthusia ID is <?php echo $_SESSION['encid']; ?>. Provide this at the desk to complete your registration.
+					Your registration is complete! <br>
+					Your Enthusia ID is <?php echo $_SESSION['encid']; ?>. Provide this at the registration desk to complete your registration. <br> <br>
+					<center>We will contanct you for further details.</center>
 				</p>
 			</div>
 		</div>

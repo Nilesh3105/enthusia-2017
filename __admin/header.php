@@ -60,6 +60,7 @@ require_once "../includes/functions.php";
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.php">Login</a></li>
 						<li><a href="userid.php">Enthusia ID</a></li>
+						<li><a href="list.php">Registered ID</a></li>
 						<li><a href="logout.php">Logout</a></li>
 					</ul>
 				</div>
