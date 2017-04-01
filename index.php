@@ -384,7 +384,7 @@
 																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	5000 </span>
+																	10000 </span>
 																	</a>
 																	<span>PRIZE POOL</span>
 																</div>
