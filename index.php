@@ -320,7 +320,7 @@
 																	<div class="title">CRICKET</div>
 																</div>
 																<div class="text" >
-																	START AT 9.00 AM • Boys Criket(maximum candidates allowed are 15 per team) • Registration fees for boys is ₹ 1500/- • Girls Cricket(maximum candidates allowed are 6 per team) • Registration is FREE
+																	Boys Criket(maximum candidates allowed are 15 per team) • Registration fees(tennis ball) for boys is ₹ 1500/- • Registration fees(leather ball) for boys is ₹ 5500/-• Girls Cricket(maximum candidates allowed are 6 per team) • Registration is FREE
 																</div>
 																<div class="time"> 
 																	<a href="docs/Cricket.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -328,7 +328,7 @@
 																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	20,000 </span>
+																	35,000 </span>
 																	</a>
 																	<span>PRIZE POOL</span>
 																</div>
@@ -348,7 +348,7 @@
 																	<div class="title">BASKETBALL</div>
 																</div>
 																<div class="text" >
-																	START AT 11.00 AM • Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team) • Registration fees is ₹ 1000/-
+																	Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team) • Registration fees is ₹ 1000/-
 																</div>
 																<div class="time"> 
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -376,7 +376,7 @@
 																	<div class="title">VOLLEYBALL</div>
 																</div>
 																<div class="text">
-																	START AT 2.00 PM • Boys Volleyball(maximum candidates allowed are 9 per team) • Registration fees is ₹ 1000/-
+																	Boys Volleyball(maximum candidates allowed are 9 per team) • Registration fees is ₹ 1000/-
 																</div>
 																<div class="time"> 
 																	<a href="docs/Volleyball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -404,7 +404,7 @@
 																	<div class="title">Football</div>
 																</div>
 																<div class="text" >
-																	START AT 4.00 PM • Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-
+																	Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-
 																</div>
 																<div class="time"> 
 																	<a href="docs/Football%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
@@ -433,7 +433,7 @@
 																	<div class="title">Kabaddi</div>
 																</div>
 																<div class="text" >
-																	START AT 4.00 PM • Boys Kabaddi(maximum candidates allowed are 10 per team) • Registration fees is ₹ 1000/-
+																	Boys Kabaddi(maximum candidates allowed are 10 per team) • Registration fees is ₹ 1000/-
 																</div>
 																<div class="time"> 
 																	<a href="docs/Kabaddi%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
@@ -492,7 +492,7 @@
 																	<div class="title">SPRINT</div>
 																</div>
 																<div class="text">
-																	START AT 09.00 AM • Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/- 
+																	Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -519,7 +519,7 @@
 																	<div class="title">SHOT PUT</div>
 																</div>
 																<div class="text">
-																	 STARTS AT 11AM • Registration fees is ₹ 50/-
+																	Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
@@ -546,7 +546,7 @@
 																	<div class="title">HIGH JUMP</div>
 																</div>
 																<div class="text">
-																	STARTS AT 1 PM • Registration fees is ₹ 50/- 
+																	Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -573,7 +573,7 @@
 																	<div class="title">LONG JUMP</div>
 																</div>
 																<div class="text">
-																	STARTS AT 3PM • Registration fees is ₹ 50/- 
+																	Registration fees is ₹ 50/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -600,7 +600,7 @@
 																	<div class="title">WEIGHT LIFTING</div>
 																</div>
 																<div class="text">
-																	STARTS AT 3PM • Registration fees is ₹ 50/-
+																	Registration fees is ₹ 50/-
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -657,10 +657,10 @@
 																	<div class="title">BADMINTION</div>
 																</div>
 																<div class="text">
-																	STARTS AT 9AM • Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
-																	<a href="docs/badminton%20rules" target="_blank"><input type="submit" value="Rules" /></a>
+																	<a href="docs/badminton%20rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
 																</div>
 																<div class="price">
 																	<span class="price-item">
@@ -685,7 +685,7 @@
 																	<div class="title">FUTSAL</div>
 																</div>
 																<div class="text">
-																	STARTS AT 11AM • Maximum candidates allowed are 6 per team • Registration fees and price money will be decided on the spot
+																	Maximum candidates allowed are 6 per team • Registration fees and price money will be decided on the spot
 																</div>
 																<div class="time">
 																	<a href="docs/Futsal%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -711,7 +711,7 @@
 																	<div class="title">TABLE TENNIS</div>
 																</div>
 																<div class="text">
-																	STARTS AT 1PM • Table Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Table Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Table Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Table Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
 																	<a href="docs/Table%20Tennis%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -739,7 +739,7 @@
 																	<div class="title">CHESS</div>
 																</div>
 																<div class="text">
-																	STARTS AT 3PM • Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
 																	<a href="docs/Chess%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -767,7 +767,7 @@
 																	<div class="title">CARROM</div>
 																</div>
 																<div class="text">
-																	STARTS AT 4pM • Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -825,7 +825,7 @@
 																	<div class="title">KHO-KHO</div>
 																</div>
 																<div class="text">
-																	STARTS AT 11AM • Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-
+																	Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-
 																</div>
 																<div class="time">
 																	<a href="docs/KhoKho.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -852,7 +852,7 @@
 																	<div class="title">LAWN TENNIS</div>
 																</div>
 																<div class="text">
-																	STARTS AT 1PM • Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
 																</div>
 																<div class="time">
 																	<a href="docs/LAWN%20TENNIS .pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -879,7 +879,7 @@
 																	<div class="title">IPL AUCTION</div>
 																</div>
 																<div class="text">
-																	STARTS AT 11AM • Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-
+																	Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -907,7 +907,7 @@
 																	<div class="title">SWIMMING</div>
 																</div>
 																<div class="text">
-																	STARTS AT 11AM • Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-
 																</div>
 																<div class="time">
 																	<a href="docs/Swimming.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -934,7 +934,7 @@
 																	<div class="title">BATTLE CREED</div>
 																</div>
 																<div class="text">
-																	STARTS AT 11AM • This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team
+																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team
 																</div>
 																<!-- <div class="time">
 																	<a href="docs/#" target="_blank"><input type="submit" value="Rules" /></a>
