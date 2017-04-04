@@ -170,7 +170,7 @@
 											<!-- Graced with some of the best sports facilities one could ask for, this annual festival is sure to set your heartbeat racing, and give you that adrenaline rush once again. Some of the most skilled and talented sportsmen will lock horns in front of hoards of fans spurring the players on to bring the best out of them. Enthusia provides ample opportunities to develop your creativity, leadership qualities, team building and managerial skills. Our vision is to nurture sports talent and make realize their full potential.  -->
 											One spirit,One team,One win... <br>
 											Zest Passion Zeal<br>
-											With temperatures running high we present one of those must see displays of grit and sportsmanship. So let's be a part of this extravaganza from 7 April to 9 April.<br>
+											With temperatures running high we present one of those must see displays of grit and sportsmanship. So let's be a part of this extravaganza from 10 April to 12 April.<br>
 											#Never Back Down #The Heat Is On
 										</p>
 									</div>	
