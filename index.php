@@ -163,7 +163,7 @@
 										</div>
 									</div>
 									<div class="col-md-6">
-										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 7 APRIL!</p>
+										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center; font-size: 2vw; font-size:calc(12px + 0.5vw);">Event Starts On 10 APRIL!</p>
 										<div style="font-family:'BlowBrush'; font-size: 10vw;line-height: 1em; text-align: center; font-size:calc(30px + 8vw);">Enthusia</div>
 										<div style="font-family:'BlowBrush'; font-size: 6vw;line-height: 1em; text-align: center; font-size:calc(12px + 4vw);">2K17</div>
 										<p style="font-family: 'Open Sans'; line-height: 1.5; text-align: center;font-size: 1.5vw; font-size:calc(14px + 0.3vw);">
@@ -188,7 +188,7 @@
 									</div>
 									<div class="row">
 										<div ng-app="timerApp" ng-controller="testCtrl" class="cen" >
-											<div blt-countdown-timer type="dhm" date="Sat, 7 April 2017 08:00:00 GMT+5:30"></div> 
+											<div blt-countdown-timer type="dhm" date="Sat, 10 April 2017 08:00:00 GMT+5:30"></div> 
 										</div>
 									</div>
 								</div>
@@ -320,7 +320,13 @@
 																	<div class="title">CRICKET</div>
 																</div>
 																<div class="text" >
-																	Boys Criket(maximum candidates allowed are 15 per team) • Registration fees(tennis ball) for boys is ₹ 1500/- • Registration fees(leather ball) for boys is ₹ 5500/-• Girls Cricket(maximum candidates allowed are 6 per team) • Registration is FREE
+																	Boys Criket(maximum candidates allowed are 15 per team) • Registration fees(tennis ball) for boys is ₹ 1500/- • Registration fees(leather ball) for boys is ₹ 5500/- • Girls Cricket(maximum candidates allowed are 6 per team) • Registration is FREE<br><h4>Coordinators(Tennis ball cricket):</h4>
+																	<span>Mukesh Jakhar 9468685432<br>Bharat Bhadrejha 9660270088
+																	</span>
+																	<br><h4>Coordinators(Leather ball cricket):</h4>
+																	<span>Rajesh Nain 9829064924<br>Siom Singh 7732898418</span>
+																	<br><h4>Coordinators(Women's Cricket):</h4>
+																	<span>Renu 9875140171</span>
 																</div>
 																<div class="time"> 
 																	<a href="docs/Cricket.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -348,7 +354,10 @@
 																	<div class="title">BASKETBALL</div>
 																</div>
 																<div class="text" >
-																	Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team) • Registration fees is ₹ 1000/-
+																	Boys Basketball(maximum candidates allowed are 12 per team) • Girls Basketball(maximum candidates allowed are 12 per team) • Registration fees is ₹ 1000/-<br><h4>Coordinators:</h4>
+																	<span>Rajan Panwar 9166788993<br>Dharmendra Bijaniya 9509545597<br>
+																	Anjali Kanwatya 9414339260
+																	</span>
 																</div>
 																<div class="time"> 
 																	<a href="docs/Basketball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -376,7 +385,10 @@
 																	<div class="title">VOLLEYBALL</div>
 																</div>
 																<div class="text">
-																	Boys Volleyball(maximum candidates allowed are 9 per team) • Registration fees is ₹ 1000/-
+																	Boys Volleyball(maximum candidates allowed are 9 per team) • Registration fees is ₹ 1000/-<br><h4>Coordinators:</h4>
+																	<span>Yogesh Rolaniya 9462019586<br>Mahadan Singh Bhati 7062756745
+																	<br>Vicky Mahla 9530129996
+																	</span>
 																</div>
 																<div class="time"> 
 																	<a href="docs/Volleyball%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -404,7 +416,10 @@
 																	<div class="title">Football</div>
 																</div>
 																<div class="text" >
-																	Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-
+																	Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-<br><h4>Coordinators:</h4>
+																	<span>Sidharth Kumar 8385907498<br>Prakash Kumawat 7073165230
+																	<br>Harshit Mehta 8764362116
+																	</span>
 																</div>
 																<div class="time"> 
 																	<a href="docs/Football%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
@@ -433,7 +448,8 @@
 																	<div class="title">Kabaddi</div>
 																</div>
 																<div class="text" >
-																	Boys Kabaddi(maximum candidates allowed are 10 per team) • Registration fees is ₹ 1000/-
+																	Boys Kabaddi(maximum candidates allowed are 10 per team) • Registration fees is ₹ 1000/-<br><h4>Coordinators:</h4>
+																	<span>Ayush Parmar 7597930972<br>Abhishek Bhatt 7222807738</span>
 																</div>
 																<div class="time"> 
 																	<a href="docs/Kabaddi%20Rules.pdf" target="_blank"><input type="submit" value="Rules"/></a>
@@ -492,7 +508,10 @@
 																	<div class="title">SPRINT</div>
 																</div>
 																<div class="text">
-																	Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/- 
+																	Sprint 100 meters • Sprint 200 meters • Sprint 400 meters • Sprint 4x100 meters • Registration fees for each is ₹ 50/-<br><h4>Coordinators:</h4>
+																	<span>Amrit Buriya 7742227156<br>Mayank Balot 8290578978
+																	<br>Dashrath Choudhary 9001135902
+																	</span>
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -519,7 +538,10 @@
 																	<div class="title">SHOT PUT</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 50/-
+																	Registration fees is ₹ 50/-<br><h4>Coordinators:</h4>
+																	<span>Amrit Buriya 7742227156<br>Mayank Balot 8290578978
+																	<br>Dashrath Choudhary 9001135902
+																	</span>
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a> 
@@ -546,7 +568,10 @@
 																	<div class="title">HIGH JUMP</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 50/- 
+																	Registration fees is ₹ 50/-<br><h4>Coordinators:</h4>
+																	<span>Amrit Buriya 7742227156<br>Mayank Balot 8290578978
+																	<br>Dashrath Choudhary 9001135902
+																	</span>
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -573,7 +598,10 @@
 																	<div class="title">LONG JUMP</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 50/- 
+																	Registration fees is ₹ 50/-<br><h4>Coordinators:</h4>
+																	<span>Amrit Buriya 7742227156<br>Mayank Balot 8290578978
+																	<br>Dashrath Choudhary 9001135902
+																	</span> 
 																</div>
 																<div class="time">
 																	<a href="docs/Athletics%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -600,7 +628,10 @@
 																	<div class="title">WEIGHT LIFTING</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 50/-
+																	Registration fees is ₹ 50/-<br><h4>Coordinators:</h4>
+																	<span>Amrit Buriya 7742227156<br>Mayank Balot 8290578978
+																	<br>Dashrath Choudhary 9001135902
+																	</span>
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -657,7 +688,10 @@
 																	<div class="title">BADMINTION</div>
 																</div>
 																<div class="text">
-																	Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Badminton singles (G/B) • Registration fees for singles is ₹ 100/- • Badminton doubles (G/B) • Badminton mixed doubles • Registration fees for doubles is ₹ 150/-<br><h4>Coordinators:</h4>
+																	<span>Jayant Chaubey 8741959652<br>Rahul Kanwat 7733836634
+																	<br>Deepansh Meena 9782249770
+																	</span> 
 																</div>
 																<div class="time">
 																	<a href="docs/badminton%20rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -711,7 +745,9 @@
 																	<div class="title">TABLE TENNIS</div>
 																</div>
 																<div class="text">
-																	Table Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Table Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Table Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Table Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/-<br><h4>Coordinators:</h4>
+																	<span>Mayank Lahari 9468889193<br>Ashwini Kaswa 8290865548
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="docs/Table%20Tennis%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -739,7 +775,9 @@
 																	<div class="title">CHESS</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-<br><h4>Coordinators:</h4>
+																	<span>Sandip Joshi 7023304973<br>Ajay Saran 9269732317
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="docs/Chess%20Rules.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -767,7 +805,9 @@
 																	<div class="title">CARROM</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-<br><h4>Coordinators:</h4>
+																	<span>Dhiraj Tholiya 9783697013
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -825,7 +865,9 @@
 																	<div class="title">KHO-KHO</div>
 																</div>
 																<div class="text">
-																	Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-
+																	Maximum candidates allowed are 15 per team • Registration fees is ₹ 600/-<br><h4>Coordinators:</h4>
+																	<span>Rakesh Peeloda 7026770977<br>Anuradha Joshi 9413082828
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="docs/KhoKho.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -852,7 +894,7 @@
 																	<div class="title">LAWN TENNIS</div>
 																</div>
 																<div class="text">
-																	Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/- 
+																	Lawn Tennis singles (G/B) • Registration fees for singles is ₹ 100/- • Lawn Tennis doubles (G/B) • Table Tennis mixed doubles • Registration fees for doubles is ₹ 150/-
 																</div>
 																<div class="time">
 																	<a href="docs/LAWN%20TENNIS .pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -879,7 +921,9 @@
 																	<div class="title">IPL AUCTION</div>
 																</div>
 																<div class="text">
-																	Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-
+																	Maximum candidates allowed are 2 per team • Registration fees is ₹ 300/-<br><h4>Coordinators:</h4>
+																	<span>Abhinav Janu 9929441772
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="#" target="_blank"><input type="submit" value="Rules" /></a>
@@ -907,7 +951,9 @@
 																	<div class="title">SWIMMING</div>
 																</div>
 																<div class="text">
-																	Registration fees is ₹ 100/-
+																	Registration fees is ₹ 100/-<br><h4>Coordinators:</h4>
+																	<span>Shubham Singh Bhati 7425978898<br>Pushpa Vishnoi 8824229259
+																	</span>  
 																</div>
 																<div class="time">
 																	<a href="docs/Swimming.pdf" target="_blank"><input type="submit" value="Rules" /></a>
@@ -934,7 +980,10 @@
 																	<div class="title">BATTLE CREED</div>
 																</div>
 																<div class="text">
-																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team
+																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team<br><h4>Coordinators:</h4>
+																	<span>Avinash Dadhich 8769933319<br>Satish Gangani 9783911628
+																	<br>Umesh Saini 9772164301
+																	</span> 
 																</div>
 																<!-- <div class="time">
 																	<a href="docs/#" target="_blank"><input type="submit" value="Rules" /></a>
