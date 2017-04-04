@@ -54,6 +54,10 @@ require_once "includes/functions.php";
 			color:#D85B1F;
 			border: none;
 		}
+		.btn.btn-raised.btn-success {
+			background-color:#D85B1F !important;
+			border: none;
+		}
 		.btn.btn-danger{
 			border: none;
 		}
