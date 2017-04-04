@@ -114,7 +114,7 @@
 							<a href="index.php#home">Home</a>
 						</li>
 						<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-856"><a href="index.php#events" class="anchor-scroll">Events</a></li>
-						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsers" class="anchor-scroll">Sponsers</a></li>
+						<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-855"><a href="index.php#sponsors" class="anchor-scroll">Sponsors</a></li>
 						
 					</ul>
 					<div class="logo-block">
@@ -1036,14 +1036,14 @@
 			</div>
 			<div class="vc_row-full-width"></div>
 		</div>
-		<div id="sponsers" class="container add_animation">
+		<div id="sponsors" class="container add_animation">
 			<div class="vc_row wpb_row vc_row-fluid margin-lg-80t padding-lg-50t padding-sm-10t padding-xs-0t" style="padding-top: 0px;">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-30b">
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
-								<h2 class="block-title">Our Sponsers</h2>
+								<h2 class="block-title">Our Sponsors</h2>
 								<!-- <div class="block-text">
 									<p>Rem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 								</div> -->
