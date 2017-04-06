@@ -977,10 +977,10 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">BATTLE CREED</div>
+																	<div class="title">MBM ROADIES</div>
 																</div>
 																<div class="text">
-																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 3 members including a girl participant • Registration fees is ₹ 200/- per team<br><h4>Coordinators:</h4>
+																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 5 members including a girl participant • Registration fees is ₹ 200/- per team<br><h4>Coordinators:</h4>
 																	<span>Avinash Dadhich 8769933319<br>Satish Gangani 9783911628
 																	<br>Umesh Saini 9772164301
 																	</span> 
