@@ -977,7 +977,7 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">MBM ROADIES</div>
+																	<div class="title">BATTLE CREED</div>
 																</div>
 																<div class="text">
 																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 5 members including a girl participant • Registration fees is ₹ 200/- per team<br><h4>Coordinators:</h4>
@@ -1016,7 +1016,7 @@
 			<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1480422279776 vc_row-has-fill">
 				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-0t margin-sm-0t margin-xs-0t">
 					<div class="vc_column-inner vc_custom_1476875217258" style="padding-top: 0px;">
-						<div class="wpb_wrapper">
+						<div class="wpb_wrapper margin-sm-15l">
 							<div class="block-header animatedBlock ">
 								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
 								<h2 class="block-title">Code of Conduct</h2>
@@ -1028,6 +1028,29 @@
 										<li style="list-style-type: disc;">Any kind of interference/misconduct during the conduction of the game will lead to 	disqualification of the team.</li>
 
 									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="vc_row-full-width"></div>
+		</div>
+		<div id="accommodation" class="container add_animation">
+			<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1480422279776 vc_row-has-fill">
+				<div class="wpb_column vc_column_container vc_col-sm-12  margin-lg-65t margin-sm-0t margin-xs-0t">
+					<div class="vc_column-inner vc_custom_1476875217258" style="padding-top: 0px;">
+						<div class="wpb_wrapper">
+							<div class="block-header animatedBlock ">
+								<div class="block-icon"><i class="miami-icon icon-martini"></i></div>
+								<h2 class="block-title">Accommodation</h2>
+								<br>
+								<img src="images/accomodation.jpg">
+								<div class="block-text" style="text-align: left; font-size: 16px;">
+									<p style="text-align: center;">
+										Accommodation will be provided at an expense of ₹ 600/- per head which will include lunch
+										and dinner and boarding facilities.  
+									</p>
 								</div>
 							</div>
 						</div>

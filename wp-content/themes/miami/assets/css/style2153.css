@@ -1668,6 +1668,9 @@ button.imagelightbox-arrow:hover {
     .padding-md-200b {
         padding-bottom: 200px;
     }
+    .margin-sm-15l {
+        margin-left: 15px;
+    }
 }
 @media screen and (max-width: 991px) {
     .margin-sm-0t {
