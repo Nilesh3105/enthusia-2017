@@ -416,7 +416,7 @@
 																	<div class="title">Football</div>
 																</div>
 																<div class="text" >
-																	Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 1500/-<br><h4>Coordinators:</h4>
+																	Boys Football(maximum candidates allowed are 15 per team) • Registration fees is ₹ 2000/-<br><h4>Coordinators:</h4>
 																	<span>Sidharth Kumar 8385907498<br>Prakash Kumawat 7073165230
 																	<br>Harshit Mehta 8764362116
 																	</span>
@@ -850,7 +850,7 @@
 														</li>
 														<li class="animatedBlock">
 															<a href="#">
-															<img class="s-img-switch" src="images/events/creed.jpg" alt=""> </a>
+															<img class="s-img-switch" src="images/events/roadies.png" alt=""> </a>
 														</li>
 													</ul>
 												</div>
@@ -977,12 +977,11 @@
 																	<div class="date">
 																		10<sup>th</sup> April 
 																	</div>
-																	<div class="title">BATTLE CREED</div>
+																	<div class="title">ROADIES</div>
 																</div>
 																<div class="text">
-																	This game includes physical and mental task of various categories like treasure hunt, etc • This is a team event consisting of 5 members including a girl participant • Registration fees is ₹ 200/- per team<br><h4>Coordinators:</h4>
-																	<span>Avinash Dadhich 8769933319<br>Satish Gangani 9783911628
-																	<br>Umesh Saini 9772164301
+																	This is a team event consisting of 5 members with at least two female and two male candidates • Registration fees is ₹ 500/- per team<br><h4>Coordinators:</h4>
+																	<span>Sumit Deora 8952944686<br>Lovish Aggarwal 9799433141
 																	</span> 
 																</div>
 																<!-- <div class="time">
@@ -996,7 +995,7 @@
 																</div>
 															</div>
 															<div class="colum animatedBlock">
-																<img class="s-img-switch" src="images/events/creed.jpg" alt=""> 
+																<img class="s-img-switch" src="images/events/roadies.png" alt=""> 
 															</div>
 														</div>
 													</div>
@@ -1241,7 +1240,7 @@
 										<img class="s-img-switch" src="images/gallery%20photos/roadies.jpg" alt=""> 
 										<div class="gal-desc">
 											<div class="vertical-align">
-												<div class="gal-title">&quot;MBM ROADIES&quot;</div>
+												<div class="gal-title">&quot;ROADIES&quot;</div>
 											</div>
 										</div>
 									</a>

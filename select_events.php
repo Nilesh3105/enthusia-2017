@@ -116,7 +116,7 @@ if($row['locked']==1)
 										<input  type="checkbox" value="1" name="<?php echo $event_name; ?>" id="<?php echo $event_name; ?>" onclick="total()" <?php if($row[$event_name]) echo "checked" ?>> 
 										<?php
 											if($event_name == "battle_creed")
-												$event_name = "mbm_roadies";
+												$event_name = "roadies";
 											echo ucwords(str_replace("_"," ",$event_name)); 
 										?>
 									</label>
