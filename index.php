@@ -980,7 +980,7 @@
 																	<div class="title">ROADIES</div>
 																</div>
 																<div class="text">
-																	This is a team event consisting of 5 members with at least two female and two male candidates • Registration fees is ₹ 500/- per team<br><h4>Coordinators:</h4>
+																	This is a team event consisting of 5 members with at least two female and two male candidates • Registration fees is ₹ 350/- per team<br><h4>Coordinators:</h4>
 																	<span>Sumit Deora 8952944686<br>Lovish Aggarwal 9799433141
 																	</span> 
 																</div>
