@@ -1075,13 +1075,42 @@
 				</div>
 			</div>
 			<div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex">
+				<div class="wpb_column vc_column_container col-md-offset-1 vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
+					<div class="vc_column-inner ">
+						<div class="wpb_wrapper">
+							<div class="services-wrap animatedBlock">
+								<div class="service-block service-entry">
+									<!-- <div class="block-icon"><i class="miami-icon icon-cupcake"></i></div> -->
+									<img src="images\sponsors\navratna.jpg" style="vertical-align: middle;">
+									<div class="service-text"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="wpb_column vc_column_container col-md-offset-2 vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
+					<div class="vc_column-inner ">
+						<div class="wpb_wrapper">
+							<div class="services-wrap animatedBlock">
+								<div class="service-block service-entry">
+									<!-- <div class="block-icon"><i class="miami-icon icon-mask"></i></div> -->
+									<img src="images\sponsors\logo.cdr" style="vertical-align: middle;">
+									<div class="service-text"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h6 class="sub-block-title">Media Partners</h6>
+			<div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex">
 				<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-cupcake"></i></div>
-									<h4 class="service-title">COMING SOON</h4>
+									<!-- <div class="block-icon"><i class="miami-icon icon-cupcake"></i></div> -->
+									<img src="images\sponsors\Red-fm-logo.jpg" style="vertical-align: middle;">
 									<div class="service-text"></div>
 								</div>
 							</div>
@@ -1093,8 +1122,8 @@
 						<div class="wpb_wrapper">
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-mask"></i></div>
-									<h4 class="service-title">COMING SOON</h4>
+									<!-- <div class="block-icon"><i class="miami-icon icon-mask"></i></div> -->
+									<img src="images\sponsors\Dainik-Bhaskar-Logo.jpg" style="vertical-align: middle;">
 									<div class="service-text"></div>
 								</div>
 							</div>
@@ -1106,53 +1135,30 @@
 						<div class="wpb_wrapper">
 							<div class="services-wrap animatedBlock">
 								<div class="service-block service-entry">
-									<div class="block-icon"><i class="miami-icon icon-ice-cream"></i></div>
-									<h4 class="service-title">COMING SOON</h4>
+									<!-- <div class="block-icon"><i class="miami-icon icon-mask"></i></div> -->
+									<img src="images\sponsors\2.png" style="vertical-align: middle;">
 									<div class="service-text"></div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-									<div class="vc_column-inner ">
-										<div class="wpb_wrapper">
-											<div class="services-wrap animatedBlock">
-												<div class="service-block service-entry">
-													<div class="block-icon"><i class="miami-icon icon-cupcake"></i></div>
-													<h4 class="service-title">COMING SOON</h4>
-													<div class="service-text"></div>
-												</div>
-											</div>
-										</div>
-									</div>
+			</div>
+			<h6 class="sub-block-title">Food Partners</h6>
+			<div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex">
+				<div class="wpb_column vc_column_container col-md-offset-4 vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
+					<div class="vc_column-inner ">
+						<div class="wpb_wrapper">
+							<div class="services-wrap animatedBlock">
+								<div class="service-block service-entry">
+									<!-- <div class="block-icon"><i class="miami-icon icon-cupcake"></i></div> -->
+									<img src="images\sponsors\IMG-20170408-WA0001.jpg" style="vertical-align: middle;">
+									<div class="service-text"></div>
 								</div>
-								<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-									<div class="vc_column-inner ">
-										<div class="wpb_wrapper">
-											<div class="services-wrap animatedBlock">
-												<div class="service-block service-entry">
-													<div class="block-icon"><i class="miami-icon icon-mask"></i></div>
-													<h4 class="service-title">COMING SOON</h4>
-													<div class="service-text"></div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 ">
-									<div class="vc_column-inner ">
-										<div class="wpb_wrapper">
-											<div class="services-wrap animatedBlock">
-												<div class="service-block service-entry">
-													<div class="block-icon"><i class="miami-icon icon-ice-cream"></i></div>
-													<h4 class="service-title">COMING SOON</h4>
-													<div class="service-text"></div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div id="gallery" class="container add_animation">
