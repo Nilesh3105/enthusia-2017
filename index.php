@@ -16,52 +16,30 @@
 		<link rel='dns-prefetch' href='http://s.w.org/'/>
 		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Feed" href="feed/index.php"/>
 		<link rel="alternate" type="application/rss+xml" title="Miami &raquo; Comments Feed" href="comments/feed/index.php"/>
-		<!-- <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foxthemes.com\/web\/wp\/miami\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style> -->
-		<link rel='stylesheet' property='stylesheet' id='bootstrap-css' href='wp-content/themes/miami/assets/css/bootstrap.min2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='font-awesome-css' href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='idangerous.swiper-css' href='wp-content/themes/miami/assets/css/idangerous.swiper2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='miami_change-color-css' href='wp-content/themes/miami/assets/css/change_color2153.css?ver=1489780710' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='bootstrap-css' href='wp-content/themes/miami/assets/css/bootstrap.min2153.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='font-awesome-css' href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.mina752.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='idangerous.swiper-css' href='wp-content/themes/miami/assets/css/idangerous.swiper2153.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='miami_change-color-css' href='wp-content/themes/miami/assets/css/change_color2153.css' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='miami_fonts-css' href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDancing+Script%3A400%2C700%26subset%3Dlatin%2Clatin-ext&amp;ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='miami_fonts_icons-css' href='wp-content/themes/miami/assets/css/miami_icons2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='miami_unit-test-css' href='wp-content/themes/miami/assets/css/unit-testfe9d.css?ver=4.7.3' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='animate-css' href='wp-content/themes/miami/assets/css/animate2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='miami_base-style-css' href='wp-content/themes/miami/assets/css/style2153.css?ver=1489780710' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='miami_fonts_icons-css' href='wp-content/themes/miami/assets/css/miami_icons2153.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='miami_unit-test-css' href='wp-content/themes/miami/assets/css/unit-testfe9d.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='animate-css' href='wp-content/themes/miami/assets/css/animate2153.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='miami_base-style-css' href='wp-content/themes/miami/assets/css/style2153.css' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='miami_dynamic-css-css' href='wp-admin/admin-ajaxc94f.css?action=dynamic_css&amp;ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='miami-style-css' href='wp-content/themes/miami/stylefe9d.css?ver=4.7.3' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles167b.css?ver=4.6' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='demo_colors-css' href='wp-content/plugins/filter-theme-for-onepage/demo2153.css?ver=1489780710' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css?ver=4.11.2.1' type='text/css' media='all'/>
-		 <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+		<link rel='stylesheet' property='stylesheet' id='miami-style-css' href='wp-content/themes/miami/stylefe9d.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles167b.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='demo_colors-css' href='wp-content/plugins/filter-theme-for-onepage/demo2153.css' type='text/css' media='all'/>
+		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css' type='text/css' media='all'/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-		<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-		<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/imagelightbox.min2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.knob2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.throttle2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyA6M45oe9V8IfJfUB6x4k0FKhmEf58nJAs&amp;ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/global2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/anchors.navigation2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/customizer2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/equalHeightsPlugin2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/parallax2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/themes/miami/assets/js/navigation2153.js?ver=1489780710'></script>
-		<script type='text/javascript' src='wp-content/plugins/filter-theme-for-onepage/js/filter2153.js?ver=1489780710'></script>
-		<script src="js/index.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/style_timer.css">	
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 		<link rel='https://api.w.org/' href='wp-json/index.php'/>
 		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd"/>
 		<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"/>
-		<meta name="generator" content="WordPress 4.7.3"/>
-		<meta name="generator" content="WooCommerce 2.6.11"/>
 		<link rel="canonical" href="index.php"/>
 		<link rel='shortlink' href='index.php'/>
 		<link rel="stylesheet" type="text/css" href="css/style_circle.css">
-		
+
 		<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed312c.json?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F"/>
 		<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed52af?url=http%3A%2F%2Ffoxthemes.com%2Fweb%2Fwp%2Fmiami%2F&amp;format=xml"/>
 		<!--[if lte IE 9]>
@@ -1765,10 +1743,25 @@
 				© 2017, Enthusia. All Rights Reserved. 
 			</div>
 		</footer>
-		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.mina752.js?ver=4.11.2.1'></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+		<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js'></script>
+		<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/imagelightbox.min2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.knob2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/jquery.throttle2153.js'></script>
+		<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyA6M45oe9V8IfJfUB6x4k0FKhmEf58nJAs&amp;ver=1489780710'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/global2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/anchors.navigation2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/customizer2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/equalHeightsPlugin2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/parallax2153.js'></script>
+		<script type='text/javascript' src='wp-content/themes/miami/assets/js/navigation2153.js'></script>
+		<script type='text/javascript' src='wp-content/plugins/filter-theme-for-onepage/js/filter2153.js'></script>
+		<script src="js/index.js"></script>
+		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.mina752.js'></script>
 		<script src='http://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js'></script>
 		<script src="js/index_timer.js"></script>
-		<script type='text/javascript' src='wp-includes/js/wp-embed.minfe9d.js?ver=4.7.3'></script>
-		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js?ver=4.11.2.1'></script>
+		<script type='text/javascript' src='wp-includes/js/wp-embed.minfe9d.js'></script>
+		<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mina752.js'></script>
 	</body>
 </html>
