@@ -28,7 +28,6 @@
 		<link rel='stylesheet' property='stylesheet' id='miami_dynamic-css-css' href='wp-admin/admin-ajaxc94f.css?action=dynamic_css&amp;ver=1489780710' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='miami-style-css' href='wp-content/themes/miami/stylefe9d.css' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles167b.css' type='text/css' media='all'/>
-		<link rel='stylesheet' property='stylesheet' id='demo_colors-css' href='wp-content/plugins/filter-theme-for-onepage/demo2153.css' type='text/css' media='all'/>
 		<link rel='stylesheet' property='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.mina752.css' type='text/css' media='all'/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 		<link rel="stylesheet" type="text/css" href="css/style_timer.css">	
