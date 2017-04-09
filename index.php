@@ -365,7 +365,7 @@
 																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	10000</span>
+																	5,000</span>
 																	</a>
 																	<span>PRIZE POOL</span>
 																</div>
@@ -395,9 +395,8 @@
 																</div>
 																<div class="price">
 																	<span class="price-item">
-																	<sup>₹</sup>
-																	10000 </span>
-																	</a>
+																	<sup>₹</sup>5,000
+																	</span>
 																	<span>PRIZE POOL</span>
 																</div>
 															</div>
@@ -427,7 +426,7 @@
 																<div class="price">
 																<a>
 																	<span class="price-item">
-																		<sup>₹</sup>6000
+																		<sup>₹</sup>6,000
 																	</span>
 																</a>	
 																	<span>PRIZE POOL</span>
@@ -457,7 +456,7 @@
 																<div class="price">
 																<a>
 																	<span class="price-item">
-																		<sup>₹</sup>3500
+																		<sup>₹</sup>2,100
 																	</span>
 																</a>	
 																	<span>PRIZE POOL</span>
@@ -699,7 +698,7 @@
 																<div class="price">
 																	<span class="price-item">
 																	<sup>₹</sup>
-																	4100</span>
+																	2,100</span>
 																	</a>
 																	<span>PRIZE POOL</span>
 																</div>
